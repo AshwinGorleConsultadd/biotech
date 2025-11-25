@@ -48,9 +48,20 @@ def clean_job_role(text):
     return text.title()
 
 def truncate(text, length=40):
-    if not text:
+    if text is None:
         return ""
+
+    # Convert non-string types to string
+    if not isinstance(text, str):
+        try:
+            text = str(text)
+        except:
+            return ""
+
+    text = text.strip()
+
     return text if len(text) <= length else text[:length] + "..."
+
 
 
 def apply_link_icons(apply_links):
