@@ -1,0 +1,12 @@
+[
+  {
+    "company_uid": 1,
+    "company_name": "google",
+    "company_domain": "google.com"
+  },
+  {
+    "company_uid": 2,
+    "company_name": "linkedin",
+    "company_domain": "linkedin.in"
+  }
+]

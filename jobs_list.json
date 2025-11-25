@@ -1,0 +1,65 @@
+[{
+    "fields": [
+      {"type": "string", "api_name": "job_id", "hidden": false},
+      {"type": "string", "api_name": "title", "hidden": false},
+      {"type": "string", "api_name": "company_name", "hidden": false},
+      {"type": "string", "api_name": "company_industry", "hidden": false},
+      {"type": "string", "api_name": "company_category", "hidden": false},
+      {"type": "string", "api_name": "company_website_domain", "hidden": false},
+      {"type": "string", "api_name": "company_id", "hidden": false},
+      {"type": "string", "api_name": "location_city", "hidden": false},
+      {"type": "string", "api_name": "location_state", "hidden": false},
+      {"type": "string", "api_name": "location_country", "hidden": false},
+      {"type": "string", "api_name": "workplace_type", "hidden": false},
+      {"type": "string", "api_name": "date_posted", "hidden": false},
+      {"type": "string", "api_name": "date_updated", "hidden": false},
+      {"type": "string", "api_name": "job_type", "hidden": false},
+      {"type": "integer", "api_name": "num_openings", "hidden": false},
+      {"type": "string", "api_name": "job_description", "hidden": false},
+      {"type": "boolean", "api_name": "reposted_flag", "hidden": false},
+      {"type": "integer", "api_name": "total_rows", "hidden": false}
+    ],
+    "rows": [
+      [
+        "9876543",
+        "Senior Scientist – Immuno-Oncology",
+        "Genentech",
+        "Biotechnology",
+        "Life Sciences",
+        "genentech.com",
+        "453829",
+        "South San Francisco",
+        "CA",
+        "US",
+        "On-site",
+        "2024-11-10T08:33:11Z",
+        "2024-11-16T15:21:45Z",
+        "Full-time",
+        3,
+        "We are seeking a Senior Scientist with experience in immuno-oncology...",
+        false,
+        1243
+      ],
+      [
+        "9876543",
+        "2Senior Scientist – Immuno-Oncology",
+        "2Genentech",
+        "2Biotechnology",
+        "2Life Sciences",
+        "2genentech.com",
+        "2453829",
+        "2South San Francisco",
+        "2CA",
+        "2US",
+        "2O2n-site",
+        "22024-11-10T08:33:11Z",
+        "2024-11-16T15:21:45Z",
+        "Full-time",
+        3,
+        "We are seeking a Senior Scientist with experience in immuno-oncology...",
+        false,
+        1243
+      ]
+    ]
+  }]
+  

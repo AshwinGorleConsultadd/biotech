@@ -1,0 +1,81 @@
+[{
+    "job": {
+      "job_id": "9876543",
+      "title": "Senior Scientist – Immuno-Oncology",
+      "company_id": 453829,
+      "company_name": "Genentech",
+      "company_website_domain": "genentech.com",
+      "company_industry": "Biotechnology",
+      "location_city": "South San Francisco",
+      "location_state": "CA",
+      "location_country": "US",
+      "workplace_type": "On-site",
+      "job_type": "Full-time",
+      "num_openings": 3,
+      "date_posted": "2024-11-10T08:33:11Z",
+      "date_updated": "2024-11-16T15:21:45Z",
+      "job_description": "We are seeking a Senior Scientist with experience in immuno-oncology...",
+      "reposted_flag": false
+    },
+  
+    "company": {
+      "company_id": 453829,
+      "company_name": "Genentech",
+      "legal_name": "Genentech, Inc.",
+      "company_website_domain": "genentech.com",
+      "linkedin_url": "https://www.linkedin.com/company/genentech/",
+      "company_description": "Genentech is a biotechnology company dedicated to developing medicines for serious diseases.",
+      "industry": "Biotechnology",
+      "sub_industry": "Life Sciences",
+      "hq_city": "South San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+  
+      "employee_count": 14000,
+      "employee_count_range": "10,000–50,000",
+      "employee_growth_6m": 3.4,
+      "employee_growth_yoy": 7.1,
+  
+      "linkedin_followers": 955000,
+  
+      "crunchbase_total_funding_usd": 256000000,
+      "last_funding_round": "Series D",
+      "last_funding_date": "2019-06-01",
+      "revenue_range": "$10B+",
+  
+      "recent_job_titles": [
+        "Senior Scientist – Immuno-Oncology",
+        "Principal Scientist – Oncology",
+        "Clinical Trial Manager",
+        "QA Specialist"
+      ],
+  
+      "job_openings_count": 52
+    },
+  
+    "decision_makers": [
+      {
+        "name": "Dr. Sarah Mitchell",
+        "title": "Vice President, Research & Early Development",
+        "linkedin_url": "https://www.linkedin.com/in/sarah-mitchell/",
+        "email": "smitchell@genentech.com",
+        "confidence_score": 0.92
+      },
+      {
+        "name": "James Carter",
+        "title": "Director, Talent Acquisition (R&D)",
+        "linkedin_url": "https://www.linkedin.com/in/james-carter-ta/",
+        "email": "jcarter@genentech.com",
+        "confidence_score": 0.87
+      },
+      {
+        "name": "Emily Rodriguez",
+        "title": "Head of Clinical Operations",
+        "linkedin_url": "https://www.linkedin.com/in/emily-rodriguez/",
+        "email": "erodriguez@genentech.com",
+        "confidence_score": 0.85
+      }
+    ]
+  }]
+
+  

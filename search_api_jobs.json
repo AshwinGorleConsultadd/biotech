@@ -1,0 +1,850 @@
+{
+    "search_metadata": {
+        "id": "search_m3WR9zk90VHmJEWLjvyn8YoV",
+        "status": "Success",
+        "created_at": "2025-11-19T19:19:59Z",
+        "request_time_taken": 0.72,
+        "parsing_time_taken": 0.17,
+        "total_time_taken": 0.89,
+        "request_url": "https://www.google.com/search?q=Bio+Tech+senior+role+in+New+York&oq=Bio+Tech+senior+role+in+New+York&gl=us&hl=en&udm=8&jbr=sep:0",
+        "html_url": "https://www.searchapi.io/api/v1/searches/search_m3WR9zk90VHmJEWLjvyn8YoV.html",
+        "json_url": "https://www.searchapi.io/api/v1/searches/search_m3WR9zk90VHmJEWLjvyn8YoV"
+    },
+    "search_parameters": {
+        "engine": "google_jobs",
+        "q": "Bio Tech senior role in New York",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us"
+    },
+    "search_information": {
+        "query_displayed": "Bio Tech senior role in New York",
+        "time_taken_displayed": 0.35,
+        "detected_location": "South Laurel, Maryland",
+        "has_no_results_for": false
+    },
+    "jobs": [
+        {
+            "position": 1,
+            "title": "Senior Biotech / Pharmaceutical Analyst - Seligman Investments",
+            "company_name": "Columbia Threadneedle Investments",
+            "location": "New York, NY",
+            "via": "via Indeed",
+            "description": "The Senior Biotech / Pharmaceutical Analyst position is a key member of the Healthcare Fund at Seligman Investments, part of Columbia Threadneedle Investments, an asset manager with over $654 billion in assets under management.\n\nThis is a unique opportunity to join a growing fund with an entrepreneurial spirit integrated in a highly established and reputable investment firm / platform. Our team has presence in New York, Menlo Park, Miami, and Boston.\n\nKey Responsibilities\n• Biotech and pharmaceutical public equity coverage and research of both commercial and development stage drug candidates.\n• Conduct rigorous scientific, clinical, statistical, manufacturing, patent, regulatory due diligence - quickly distilling what information may impact investment thesis.\n• Generate investment recommendations: thesis, risk-reward, supporting evidence, and catalysts.\n• Build and maintain therapeutic class, disease area, regulatory precedents databases.\n• Drive valuation conclusions through revenue builds, financial models, comp sheets.\n• Continually refine thesis and research processes.\n• Communicate effectively research and new developments in a timely manner.\n• Strong work ethic, high integrity, drive for results, entrepreneurial spirit, intellectual curiosity and honesty contributing to a positive culture and team environment.\n\nRequired Qualifications\n• 5+ years in the biotechnology/ pharmaceutical sector either in clinical, scientific, financial services, or industry capacity.\n• 2+ years of experience as a buyside investment analyst covering biotech/ pharmaceuticals.\n• Proven ability to interpret clinical and scientific data and translating findings into investment implications and recommendations.\n• Strong financial modeling, valuation, and analytical abilities.\n\nPreferred Qualifications\n• Experience with private investments and derivatives.\n• Experience with advanced data analysis/ coding/ modeling.\n• Advanced degree (Doctorate/ Masters).\n\nAbout Our Company\nWe’re a diversified financial services leader with more than $1.5 trillion in assets under management, administration and advisement as of 2024. With our team of more than 20,000 people in 20 countries, we advise, manage and protect assets and income of more than 3.5 million individual, small business and institutional clients. We are a longstanding leader in financial planning and advice, a global asset manager and an insurer. Our unwavering focus on our clients and strong financial foundation connects each of our unique businesses - Ameriprise Financial, Columbia Threadneedle Investments and RiverSource Insurance and Annuities. Here, we foster meaningful careers, invest in the future, and make a difference for clients, institutions and communities around the world.\n\nBase Pay Salary\n\nThe estimated base salary for this role is $175,000 - $200,000 per year. We have a pay-for-performance compensation philosophy. Your initial total compensation may vary based on job-related knowledge, skills, experience, and geographical work location. In addition, most of our roles are eligible for variable pay in the form of bonus, commissions, and/or long-term incentives depending on the role. We also have a competitive and comprehensive benefits program that supports all aspects of your health and well-being, including but not limited to vacation time, sick time, 401(k), and health, dental and life insurances.\n\nAmeriprise Financial is an equal opportunity employer. We consider all qualified applicants without regard to race, color, religion, sex, national origin, genetic information, age, sexual orientation, citizenship, gender identity, disability, veteran status, marital status, family status or any other basis prohibited by law.\n\nFull-Time/Part-Time\n\nFull time\n\nExempt/Non-Exempt\n\nExempt\n\nJob Family Group\n\nInvestment Management\n\nLine of Business\n\nAMINV US Asset Management",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years in the biotechnology/ pharmaceutical sector either in clinical, scientific, financial services, or industry capacity",
+                        "2+ years of experience as a buyside investment analyst covering biotech/ pharmaceuticals",
+                        "Proven ability to interpret clinical and scientific data and translating findings into investment implications and recommendations",
+                        "Strong financial modeling, valuation, and analytical abilities"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Base Pay Salary",
+                        "The estimated base salary for this role is $175,000 - $200,000 per year",
+                        "We have a pay-for-performance compensation philosophy",
+                        "Your initial total compensation may vary based on job-related knowledge, skills, experience, and geographical work location",
+                        "In addition, most of our roles are eligible for variable pay in the form of bonus, commissions, and/or long-term incentives depending on the role",
+                        "We also have a competitive and comprehensive benefits program that supports all aspects of your health and well-being, including but not limited to vacation time, sick time, 401(k), and health, dental and life insurances"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Biotech and pharmaceutical public equity coverage and research of both commercial and development stage drug candidates",
+                        "Conduct rigorous scientific, clinical, statistical, manufacturing, patent, regulatory due diligence - quickly distilling what information may impact investment thesis",
+                        "Generate investment recommendations: thesis, risk-reward, supporting evidence, and catalysts",
+                        "Build and maintain therapeutic class, disease area, regulatory precedents databases",
+                        "Drive valuation conclusions through revenue builds, financial models, comp sheets",
+                        "Continually refine thesis and research processes",
+                        "Communicate effectively research and new developments in a timely manner",
+                        "Strong work ethic, high integrity, drive for results, entrepreneurial spirit, intellectual curiosity and honesty contributing to a positive culture and team environment"
+                    ]
+                }
+            ],
+            "extensions": [
+                "175K–200K a year",
+                "Full-time",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "salary": "175K–200K a year",
+                "schedule": "Full-time",
+                "paid_time_off": true,
+                "dental_insurance": true,
+                "health_insurance": true
+            },
+            "apply_link": "https://www.indeed.com/viewjob?jk=72fbc3d2e44c05fb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://www.indeed.com/viewjob?jk=72fbc3d2e44c05fb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Indeed"
+                },
+                {
+                    "link": "https://www.ziprecruiter.com/c/Ameriprise-Financial/Job/Senior-Biotech-Pharmaceutical-Analyst-Seligman-Investments/-in-New-York,NY?jid=e3f2ae5586848801&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "ZipRecruiter"
+                },
+                {
+                    "link": "https://www.glassdoor.com/job-listing/senior-biotech-pharmaceutical-analyst-seligman-investments-columbia-threadneedle-investments-JV_IC1132348_KO0,58_KE59,92.htm?jl=1009903133701&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Glassdoor"
+                },
+                {
+                    "link": "https://www.linkedin.com/jobs/view/senior-biotech-pharmaceutical-analyst-seligman-investments-at-columbia-threadneedle-investments-4312949030?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "LinkedIn"
+                },
+                {
+                    "link": "https://jooble.org/jdp/-6074826368192761093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Jooble"
+                },
+                {
+                    "link": "https://www.theladders.com/job/senior-biotech-pharmaceutical-analyst-seligman-investments-ameriprise-new-york-ny_83885697?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Ladders"
+                },
+                {
+                    "link": "https://www.simplyhired.com/job/4mZT_Xlq80gJdS1Io4IqGfAg1bI_J0D6LFVKKsf4npIUo_R-c8-H3Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "SimplyHired"
+                },
+                {
+                    "link": "https://www.recruit.net/job/biotech-pharmaceutical-analyst-seligman-investments-jobs/290D618F9DEE4794?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Recruit.net"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=RQYmqiFSG6sQ74B3AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_1WNvQ4BURBGo_UIqqmFvUg0VCiEQiQoVDK7O9m93DuzuTP-ntBrWaXmFF9yvtP9dLqnA7GXBEsvRkUNDvY1pogF3c0XGGDBGN5qMIQDBV9FZNjwg9QisWk7byUHJUytLAxrkSpQb16bNTpzTjVklRq2Z1kh0QlTLi93lVx_uGhboyag0WUyHb2yhqv-eCXhHnOPcKwTYclEZaC_rGfY0RPOkm4D2J2_G5t8-MoAAAA&shmds=v1_AdeF8KjM4SlA9_aFDMMTZ06Pd-sFcm5SSxL0fyecMF17W1aONQ&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=RQYmqiFSG6sQ74B3AAAAAA%3D%3D",
+            "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAQMEBQYHCAL/xAA1EAABAwMBBAcGBgMAAAAAAAABAgMEAAURBhIhMVEHEyJBcZGhFEJhgaLBFTNiscLRMlKS/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMFBAEG/8QAJxEAAgIBAwMDBQEAAAAAAAAAAQIAAwQREiETFDEzQVEiMnHR8AX/2gAMAwEAAhEDEQA/ANxpKQ82w0px1QShIySa8zJbEKK5JkuBtpsZUo91QKdR6dvDQafkpRvzsP5b3+PD1olXX8QWbQceYxm3+W7J2oqy00nclOAc/E0vH1NIRgSGEODmk7J+9OXNOxH0bcOSQDw3haaiLla3rdsl1xpQUcDZO8/KqCdvYAukjWd3US5P6lhjajgu7nNtlX605HmKk2ZTD4yw6hwfpUDWd7qZOXBTUhtcckdUoK2h3kHPlXTgBvtM4P8AVZPUE1YHNHSbDiXWUOIOUrSFA/A0KmS4DrMe13q32m/SbXLUqO1DdKEtkblHuWSOYO7kDTCzxXL1LRGtxS6tXEg5CRzPIV46arb7JqtqahICJ0cKJ5rR2T6bFR/RRcfw7W0NKjhuWlUdXzGU/UB51QUaU7lk8k9Xa02SHFg6TtfVt9t9e9SuCnVfYCq9Lkuy31PPqyo+QHIUevFyYd5bdQs9W80MJVvAIOD9qgDPckNlCgE89nvrRiY/0Cz3Mm5+Wd5rPgReZK6wlto9nvPOmtSFktD93k9W12Wk/mO43JH9161Fb0Wy6rjtA9VspUjJycY/sGtgsQP0x5kpqrWr6xHHiXjSEr2mxR8ntNZaPy4emKKoXo9lYXLiE8cOpHof40dQslNlzCerwLepjq39xI7pvtvtGmY89I7UKQNo8kL7J+rYrFIklcOWxKa/MYcS4nxScj9q6c1VbfxfTlxgAZW/HWlHwVjKT5gVy+624y51UhtbLo4tuJKVDxB31oxW1QqYGSujhp0fJbsus4TC489tZSNpJYcSVJyN4IqHOg5DclPVzm1Mk9oqQQoD9jWEIUptYW2ooWOCknBHzqxWvXWprXgMXZ9xse5Iw6Pq3+tMVbqhpW3ERYuPcd1i8zYr5qS16PREtsdtLjy1p20A/wCCCRtLUeeM4Hf4Un0gxt0SYnhvbUfUfesakvuzHXJElxTrrx2lrUclRNb1YA3ftK2tye0VFTSFKSsEbSk7s+Bx8waV6DrYefmMdO5qaocfEiNEWiQh8XN0ltspKW0kb3Ae/wAKOrqlISAAMAUKzXWm19xmrFx1x6wiw6azrdCuDRanw2JLf+rzYWPWhQpU0So3Xos0zP2lMR3oLh96K5gf8qyPIVULp0Nz2tpVpujEgdzchBbPmMg+QoUKat9i+8U1KN5EfaI6N5aJQf1MylDUdWERwsLDxHAkj3fhxPf8dYSkJAAGANwAoUKF7Gc6mElaoNBDoUKFBDn/2Q=="
+        },
+        {
+            "position": 2,
+            "title": "Senior Equity Analyst Biotech Pharmaceuticals – Seligman Investments",
+            "company_name": "Columbia Threadneedle",
+            "location": "New York, NY",
+            "via": "via Workable Jobs",
+            "description": "This role will lead biotech and pharmaceuticals sector investments supporting the Healthcare Long/Short Fund at Seligman Investments, part of Columbia Threadneedle Investments, an asset manager with over $1 trillion in assets under management and administration. This is a unique opportunity to join a growing fund with an entrepreneurial spirit yet part of a highly established and reputable investment firm/ platform. Our team has presence in New York, Menlo Park, Miami, and Boston.\n\nJob Description\n\nKey Responsibilities\n• Lead biotech and pharmaceuticals sector coverage reporting to the Healthcare Portfolio Manager\n• Develop investment theses by researching the industry and specific companies through medical and scientific due diligence, channel checks, earnings calls, company meetings, conferences and sell-side events\n• Ability to accurately analyze complex medical literature, scientific data, statistical models and quickly distill key information that will impact investment decisions\n• Communicate effectively research and new developments on a daily basis and track information about sector, companies, drug classes, regulatory and reimbursement decisions in a central repository\n• Create valuation analyses on sector companies to arrive at price targets for existing holdings and price discrepancies on prospective holdings, based on fundamental drivers and a consistent valuation approach\n• Develop trade recommendations rooted in carefully analyzed risk/ reward\n• Deep understanding of financial statements and ability to create and maintain detailed financial models\n• Strong work ethic, highest integrity, drive for results, entrepreneurial spirit, intellectual curiosity and honesty contributing to a positive culture and team environment\n\nRequired Qualifications\n• 5+ years in the biotechnology/ pharmaceutical sector either in clinical, scientific, financial services, or industry capacity\n• 2+ years of experience as a dedicated investment analyst covering biotech/ pharmaceuticals for an institutional asset manager\n\nPreferred Qualifications\n• Experience covering both biotech and pharmaceuticals across all key therapeutic areas for a hedge fund\n• Experience with private investments and derivatives\n• Advanced degree (eg, MS, PharmD, PhD, MD)",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong work ethic, highest integrity, drive for results, entrepreneurial spirit, intellectual curiosity and honesty contributing to a positive culture and team environment",
+                        "5+ years in the biotechnology/ pharmaceutical sector either in clinical, scientific, financial services, or industry capacity",
+                        "2+ years of experience as a dedicated investment analyst covering biotech/ pharmaceuticals for an institutional asset manager"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Lead biotech and pharmaceuticals sector coverage reporting to the Healthcare Portfolio Manager",
+                        "Develop investment theses by researching the industry and specific companies through medical and scientific due diligence, channel checks, earnings calls, company meetings, conferences and sell-side events",
+                        "Ability to accurately analyze complex medical literature, scientific data, statistical models and quickly distill key information that will impact investment decisions",
+                        "Communicate effectively research and new developments on a daily basis and track information about sector, companies, drug classes, regulatory and reimbursement decisions in a central repository",
+                        "Create valuation analyses on sector companies to arrive at price targets for existing holdings and price discrepancies on prospective holdings, based on fundamental drivers and a consistent valuation approach",
+                        "Develop trade recommendations rooted in carefully analyzed risk/ reward",
+                        "Deep understanding of financial statements and ability to create and maintain detailed financial models"
+                    ]
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule": "Full-time"
+            },
+            "apply_link": "https://jobs.workable.com/view/ck9XjiGoRULxL77EtzoiaB/senior-equity-analyst-biotech-pharmaceuticals-%E2%80%93-seligman-investments-in-new-york-at-columbia-threadneedle?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://jobs.workable.com/view/ck9XjiGoRULxL77EtzoiaB/senior-equity-analyst-biotech-pharmaceuticals-%E2%80%93-seligman-investments-in-new-york-at-columbia-threadneedle?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Workable Jobs"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=qIlV7XCdLMLkFi0rAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNO67CQAwARcsRqNzQoEeCkGh4FSCEoEBI0FA8ISdYycKuHdYOn447cCRuwkleaKabmfa71f7bEjuJML_Uzh4wYfQPNZg6McpL2JQYA-ZUm8vRK3yeL9iSd0VAhiVfSS0Qm0IfVpKBEsbGEoaFSOGp81uaVTpOU1WfFGrYdJJcQipMmdzTk2T6xUGbEVUejQ7D0eCeVFz0ujPxdcgcwq6MhEcmOnoCx7CmG-wlnn9gvf8HFCG5SsYAAAA&shmds=v1_AdeF8Kiy6nLu61a_v37sDy6spxdOCi6HfPnY5Bd8SiXev2Zldg&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=qIlV7XCdLMLkFi0rAAAAAA%3D%3D",
+            "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAMAAAADZYwMAAAAmVBMVEX////p7fH2+Pq5xdL7/P2Wpbjv8vWcrL/k6e3K1d4AuPLy9fcAtfEALGRVeZqfrsDc4uhth6J/k6uxvcvAzdqitsnR2+To+P666v0hxfY3yPZ71/nx/P9u1/pIzPdjf51izvg6YYiHnbQAQ3QANWw6aplTe6QeUH1Ka47X8fwvvvJNyfmg4PwAKGNQw/cAp+2T2PsAHl0pWILmbNtGAAABp0lEQVQ4je2SW3PbIBSEFxBCGOuIm4itNqbGTizbSS/+/z+uqH1q8tKm0z5lZ3jgzPmG3R2Ad/0j3b2R22ynD5s3wB/vp+00TbsNwDK1gSQKuMKYNCBSzlp0UK+5GDnO99Nu9QnYc2gPFQnGoegD+FEMnAbbPttX3MPDIzbTdFmtwAkIEUkR+AKexjLHLN3QeZtfgrfbY7PZ7iq3PqMUZecwm9uoSZCVTjnhRFY6w3UvwNLvsb5c1tfr+gnoqiPNYa1BqpEbdI1NMMygMS+t9s/885f1FU/1eCJdwMJAHpkUooXPS1c6OVKBcqLcxgRBGW3fi7uvV6RzBVEM5k4MDs5SfSZ7EESYi9DEmqKNiJiDhhJtDXk8FQ15wm4xzjAPZfDB1QVmB88zrMxin+bBFJkqSKPGUGqQ8u3Y9/3pwBbjnmFfNx2ou0nhWltIznyG13spipciuxCyVE4CPPpT3x/oR2IO1B44r120zNQ+DO+WUb2zljOGpSbWNoz9bIiF8scf7hfpUUcbYtRRj2MUQqdRpN8CtTIVsKNlIkahQ1vRv/Pyrv+i7029HthrSn+4AAAAAElFTkSuQmCC"
+        },
+        {
+            "position": 3,
+            "title": "Software Engineer, Infrastructure (Platform) - Biotech Software Leader",
+            "company_name": "Andiamo",
+            "location": "New York, NY",
+            "via": "via LinkedIn",
+            "description": "Big Data Software Engineer — Streaming\n\nAbout The Role\n\nBuild real-time data systems for high-cardinality, high-throughput streams. You’ll design ingestion, processing, and low-latency delivery for analytics and ML.\n\nResponsibilities\n• Design streaming topologies (Kafka/Flink/Spark Structured Streaming) with exactly-once semantics.\n• Implement schema management, data contracts, and backward-compatible evolution.\n• Optimize stateful processing, watermarking, and checkpointing for resiliency.\n• Expose durable, queryable topics and near-real-time views (Materialize/ClickHouse/Druid).\n\nRequirements\n• 4+ years in distributed data systems; strong JVM or Scala/Python skills.\n• Deep knowledge of streaming guarantees, partitioning, and storage formats (Parquet/Avro).\n\nAbout Andiamo\n\nTalent Partners for the AI Revolution. As a globally recognized staffing and consulting firm, we specialize in placing the top 2% of technology and go-to-market professionals with the world’s largest and most well-known companies.\n\nFor over 20 years, we've maintained the status of tier-one vendor for firms such as Palantir, Amazon, Fluidstack, Bloomberg, Relativity Space, Firefly, MasterCard, Visa, Two Sigma, Citadel, as well as other major financial services firms, elite hedge funds, Google-backed tech start-ups, and major software firms.\n\nOur talent solutions include Permanent Placement, Contract Staffing, Executive Search, and Dedicated Recruiting Services (RPO). Find out more at www.andiamogo.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "4+ years in distributed data systems; strong JVM or Scala/Python skills",
+                        "Deep knowledge of streaming guarantees, partitioning, and storage formats (Parquet/Avro)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Build real-time data systems for high-cardinality, high-throughput streams",
+                        "You’ll design ingestion, processing, and low-latency delivery for analytics and ML",
+                        "Design streaming topologies (Kafka/Flink/Spark Structured Streaming) with exactly-once semantics",
+                        "Implement schema management, data contracts, and backward-compatible evolution",
+                        "Optimize stateful processing, watermarking, and checkpointing for resiliency",
+                        "Expose durable, queryable topics and near-real-time views (Materialize/ClickHouse/Druid)"
+                    ]
+                }
+            ],
+            "extensions": [
+                "8 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule": "Full-time",
+                "no_degree_mentioned": true
+            },
+            "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-platform-biotech-software-leader-at-andiamo-4306634192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-platform-biotech-software-leader-at-andiamo-4306634192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "LinkedIn"
+                },
+                {
+                    "link": "https://www.ziprecruiter.com/c/Cohere/Job/Software-Engineer,-Internal-Infrastructure-(North-America)/-in-New-York,NY?jid=7625f60c64b2ad1c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "ZipRecruiter"
+                },
+                {
+                    "link": "https://jooble.org/jdp/-1385674067635613708?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Jooble"
+                },
+                {
+                    "link": "https://www.theladders.com/job/software-engineer-internal-infrastructure-north-america-cohere-new-york-ny_83793578?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Ladders"
+                },
+                {
+                    "link": "https://jobs.technyc.org/companies/cohere-2-9ccb8fa7-ab53-4f10-9eff-0788c149f4e6/jobs/60210352-software-engineer-internal-infrastructure-north-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Tech:NYC Job Board"
+                },
+                {
+                    "link": "https://us.jobrapido.com/jobpreview/5914947134481760256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Jobrapido"
+                },
+                {
+                    "link": "https://www.talentify.io/job/software-engineer-internal-infrastructure-north-america-new-york-new-york-us-cohere-1-02c92e66-c89d-4a62-8961-c260d651afe1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Talentify"
+                },
+                {
+                    "link": "https://lensa.com/job-v1/cohere/new-york-ny/software-engineer/d744cda7c3cffa02cd34218643158b70?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Lensa"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=X56DPdpTnSVrICFRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z3NsQrCMBQFUFz7A4LTG1VqI4KLTgoiihTBqYOUNH1No21eSV5pf8z_My4udznce6PPJHo-qOJBOoST1cYiuhgutnLSs-sV9wHm90ZyRa5dwAqOhhhVDf_aDWWJLsiVCvAoXUCycCbSDc72NXPnd0J43yTas2SjEkWtIIsFjeJFhf9F7usw1oUjzDfb9Zh0Vi-nB1sa2RIYCykOkJF7x5BmX4V9d764AAAA&shmds=v1_AdeF8KgxVEqyM3mkwkX25LLZ1jL45e_grJg3KHtZ53khICzh4Q&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=X56DPdpTnSVrICFRAAAAAA%3D%3D",
+            "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBEQACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAABAUGBwMB/8QANBAAAQMDAQUFBwMFAAAAAAAAAQIDBAAFEQYSEyExUXGBkaGxBxQyQWHB8CJCUhUjM2KS/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAMEBQIG/8QAKhEAAQMCBAYCAgMAAAAAAAAAAQACAwQRBSExcRITQWGx8DKRUcEjodH/2gAMAwEAAhEDEQA/ANxoQihCKEIoQihCKEIoQihCRul4gWlsLnyUNZ+FPNSuwDiadDTyzm0bbpM1RHCLvNlBp1/ZC5skyUp/mWeHkc+VWnCKoC9h9qMYrTXtc/SnotyizYZlQHUyWwCf7Ryc9MfI/Q1A+J8b+B4sVayZkjeJhuFE2rWNruk9EJjfturzs71ASCRxxz51XPh08MfMda3ZTQ4hDK/gbqn7XeotylS4rQdbfiq2XW3U4PaOPEcKnlpnxNa86O0T4qhkrnMGo1UnSE9JXm4ItVrkTXBkMoyE/wAjyA7zgU2CEzStjHVKnlEMZeeizKyWibrC6Pypj6ktpI3z2MnjyQkfmK9LU1EdBEGRjPp/pXnaeCSukL3nL3IK3uaAsqmdhHvKF4/yB3J8Dw8qyRi9SHXNvpapwqnIsL/apy0z9E6gH69ts4JxwS+3np8jz7DWuDFiVPpY+Csk83D5+3kLprKCbbd2bpb1FMeZiQytP7V8Cfse89K5w6XnQmGTVuR29yXVfFypRLHo7MbqUl3ANvW3WENH6HMMXBtHyPI+nDsT1qSOG4fQv1GbT77qqXy2LKxnXJ3vvRaCy6h5pDrSgttaQpKhyIPI1hEFpsdVuAhwuFXfaGha9LSCjOErbKuzaFaGFECqbfv4UGJgmmNu3lJ+zB1pVkfaTjeokErHz4gYPljup2MtIqAToQlYQ5phIGt1cayFqrO/ao60ZFuaBBdQhxSvoklOPQ+FegwNps93TL9rCxlzbsHXNdNSusR9A2uLKTtSnGmtyDzQQASe4HHfXFE1z6972aAm66q3NbQsY7XKyjNPEQ9I3mTPG1CkANMtE/G5x4jvxx/1PSqaz+SsiZH8hmT298qel/jpZHyfE5Ad/fCu2io8mLpuG3MJ2ykqSk80pJyB4H7VjYg9j6lxZotegY9lO0P1UvMjNTIrsZ9O006goUOoNSMe5jg5uoVT2B7S12hWVyol40Xcy/HJLJ4JeKctuJ6K6H8FeoZLT4jFwv1/HUbLzT456CTibp/R3Ui57R5ZYw3Ajpdx8ZcJT4YHrU4wNnFm82298J5xl9smi+6UsNjn6muX9SuxX7qVBbjrgxvQP2p+n15YplVVRUcXJh+Xjful01NLVyc2XTzt2St5lPaq1OlmGctlW5j9EoHNXqezFOpmNoaXifrqd/wl1D3VlTws00G35ViMNm76gi2WKnNpsyQXui19D38P+qzhI6CndO75yadh7+ldy2zztgb8I9d/f2r4KxFtIoQvFJCklKgCDzBHOhFrpNNptqHN4i3xEuZztBhIPjimmeUixcbbpQgiBuGi+ybW2hxCkOJCkKGCkjII6UoGxuEwgEWKWjWu3xXd7FgxmXMY222kpOO0CmvnleLOcSN0tkMTDdrQDsukaHGibfusdpneHaXu0BO0epxzrlz3vtxG9l0yNjL8Itdd64XaKEIoQihCKEIoQihCKEL/2Q=="
+        },
+        {
+            "position": 4,
+            "title": "Patent Associate- Biotechnology",
+            "company_name": "CyberCoders",
+            "location": "New York, NY",
+            "via": "via LinkedIn",
+            "description": "Patent Associate - Biotechnology\n\nPosition Overview\n\nWe are seeking a knowledgeable and motivated Patent Associate with a strong background in biotechnology and life sciences. The ideal candidate will support our legal team in the preparation and prosecution of patent applications, ensuring the protection of innovative technologies and research in the biotechnology field.\n\nKey Responsibilities\n• Assist in the preparation and prosecution of patent applications in the biotechnology sector.\n• Conduct due diligence and analyze intellectual property portfolios.\n• Collaborate with scientists and researchers to understand and evaluate inventions.\n• Draft patent claims, specifications, and other legal documents.\n• Participate in interparty matters and support litigation as necessary.\n• Stay updated on changes in patent laws and practices, particularly with respect to the USPTO.\n• Provide strategic advice on patentability, freedom to operate, and IP strategies.\n\nQualifications\n• Jurisdictional license to practice law (preferably in the relevant jurisdiction), admission to USPTO\n• Advanced degree in life sciences, biotechnology, or a related field (Ph D preferred).\n• 3-6+ years experience in patent preparation and prosecution, particularly in the biotechnology area.\n• Strong knowledge of intellectual property laws and USPTO regulations.\n• Proficient in conducting due diligence and IP analysis.\n• Excellent written and verbal communication skills.\n• Ability to work collaboratively in a team environment and manage multiple projects.\n\nBenefits\n• Medical, prescription drug, dental and vision coverage\n• Life insurance\n• Short and long-term disability\n• 401(k)\n• Health care and dependent care flexible spending accounts, and a health savings account\n• Firm subsidized emergency child and elder care services\n• Family and medical leave\n• Employee assistance program\n• Pre-tax transportation program\n\nEmail Your Resume In Word To\n\nLooking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:\n\nalyssa.arnold@cybercoders.com\n• Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : AA9-1884353L024 -- in the email subject line for your application to be considered.***\n\nAlyssa Arnold - Executive Recruiter\n\nFor this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa.\n\nThis job was first posted by CyberCoders on 11/18/2025 and applications will be accepted on an ongoing basis until the position is filled or closed.\n\nCyberCoders is proud to be an Equal Opportunity Employer\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity or expression, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, status as a crime victim, disability, protected veteran status, or any other characteristic protected by law. CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act. CyberCoders is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. Individuals needing special assistance or an accommodation while seeking employment can contact a member of our Human Resources team at Benefits@CyberCoders.com to make arrangements.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Jurisdictional license to practice law (preferably in the relevant jurisdiction), admission to USPTO",
+                        "3-6+ years experience in patent preparation and prosecution, particularly in the biotechnology area",
+                        "Strong knowledge of intellectual property laws and USPTO regulations",
+                        "Proficient in conducting due diligence and IP analysis",
+                        "Excellent written and verbal communication skills",
+                        "Ability to work collaboratively in a team environment and manage multiple projects",
+                        "For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa",
+                        "CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Medical, prescription drug, dental and vision coverage",
+                        "Life insurance",
+                        "Short and long-term disability",
+                        "401(k)",
+                        "Health care and dependent care flexible spending accounts, and a health savings account",
+                        "Firm subsidized emergency child and elder care services",
+                        "Family and medical leave",
+                        "Employee assistance program",
+                        "Pre-tax transportation program"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Assist in the preparation and prosecution of patent applications in the biotechnology sector",
+                        "Conduct due diligence and analyze intellectual property portfolios",
+                        "Collaborate with scientists and researchers to understand and evaluate inventions",
+                        "Draft patent claims, specifications, and other legal documents",
+                        "Participate in interparty matters and support litigation as necessary",
+                        "Stay updated on changes in patent laws and practices, particularly with respect to the USPTO",
+                        "Provide strategic advice on patentability, freedom to operate, and IP strategies"
+                    ]
+                }
+            ],
+            "extensions": [
+                "17 hours ago",
+                "230K–320K a year",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 hours ago",
+                "salary": "230K–320K a year",
+                "schedule": "Full-time",
+                "dental_insurance": true,
+                "health_insurance": true
+            },
+            "apply_link": "https://www.linkedin.com/jobs/view/patent-associate-biotechnology-at-cybercoders-4336885796?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://www.linkedin.com/jobs/view/patent-associate-biotechnology-at-cybercoders-4336885796?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "LinkedIn"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=cPHiftXzj8OUHDbSAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CLrcLLYRQQedtIPgUFw7lSQeSTTmQu7A9jV8Yuvy801_9V1Uh7sWTAJnZrJhdg2XQILWJ4rkJqjhRgYYdbEeKMGVyEVcnrxI5qNSzLFxLFqCbSy9FSU0NKonGf5nYK8L5jifh91-OzY5ufWqnQyWlh5YGEKCDj_QU3ltoOt_aLeZh5UAAAA&shmds=v1_AdeF8Khx1cp8X5Jq_4s_LlxH9BnTHnVME_OxBt8jDZT2EpUT8g&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=cPHiftXzj8OUHDbSAAAAAA%3D%3D",
+            "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBIgACEQEDEQH/xAAcAAADAAIDAQAAAAAAAAAAAAAABgcFCAEDBAL/xAA2EAABAwIDBAcGBgMAAAAAAAABAgMEBhEABRIHITFhExQiQVFicRYyQlKBghUXM5GhonKx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/EACERAAICAgAHAQAAAAAAAAAAAAABAhEhMRITIjJBUWED/9oADAMBAAIRAxEAPwC44V60rrJ6QZAmuF6atOpuGyQXFDxPyp5nna+ONotXN0hT65aQlc549FEaVwUu3E+UDefoO/E22b0A7VTyqpq9bshmQvW004bGSfnX5O4JFrgfLYG4xVW9A86q82h1g8pNMwFxo4JF4jIUByU852b+mnH37PbXv1uvTdfHR+Io/wBX04tyjGy3L1qbbQ3GjNFQQ0kAJSkXsAMSRFY17Ip5dbMfhackS4ojLiDrLQXoJ1Wve/fccL27sUpXpIGJTXe0Oj3kipoC5Ma4BMtkJB5Jeb7N/XVio0VXeT1eyUwnCxNQnU5DeIDiR4juUnmOV7YzUGTFzvJY0otJXFnR0Oht1IIKFpBsQeRxHdpFAO0s6mqaPW5Hajr6R1lo74x+dHk8UncAfluBnTLGmC44MKuzmrm6vyBEpQSicwQ1LaTwSu3vDyq4j6juwYhqnQJhX+us9rsOntZ6rHWiOQD3aekeI523faMWuflkeXksjKtCW4z0ZUfSkbkoKdNgOQxGKMt+fGadP7/WJmi/jc2/rfF1xc8Uga+bLM/boeoMyp+pUiMw+sNOrWOw06m4ufIoH3uHungScOitlWTLbUWqizBFOLc6dWXpkjoD3+9e1udr8778ZzaDQ+QVHGVOzR4ZfIYRbr4UlISnwXfcU+u8dxGIsaNpwS+r+3uUFvV7/Vl29eOn+cUnxZWAZvarUEerczyumaXQiVGjL0NloXQ46RpSE+VIvv4bz3C+LhlGUs5fkEPKFBLrMeKiOoKFwsBISb+uFnZ5Q1P0+wnMctkpzOS6iwnlSVDSeIbtuSP3PPDviJNaQINQeui9r0unwo9UkLXHAJ+HT0jRPiQOz9xwY7K2t+e2VdBbX08LXbx1b/64Mb+maYOuvtdGbXodQFJ6pIWiQSB8Ono3gOdt/wBwxdESGVxhJS6ksFGsOA9kpte9/C2FvaLSTdX0+uKkpROZPSxHVcErtwPlI3H6HuxMKIrM5NFl0TWvWIkfSuMiQffi6gQUK49nfdKt4G74bEK44/UDwS5Gc7X6uXEiPFjKo5K29YJbYbBsFqHe4ruHqOAJw8DYjTvVOjM7My/b9bpEcf8AHTa3888NFDUhktLRX15G86+1N0LLrjqXNQAOmxAG7ef3wz4OfiOga8A51sfqxttbypOVSe2oIFkSW+Cjp+FxO7+N9jjYESmFRBLDqOrlvpA6T2dFr3v4W34wNb0pk9UQWU5286wzDUXQ624lGndY3JB3f8xKayq8Zll8KhaH6xLipQiKqQN65ISLBCeHZ3dpW4ED5bk73g5oQrrTa/Lz8JV1SMtcgEj4dPRtA+BI7X2nHOKds5pFukMgRFWUrnPkOy3U8Cu3ujyp4D6nvwYibt4A1YV60oXJ6vZBmtlmahOluYyAHEjwPzJ5HxNrYMGMTa0CXGhdolHuqNMz1yY1yQIrwSDzUy52b+lzjs9pNr36P4dL18Nf4cm/7204MGL5ntA+BQu0WsXE+009caNcEiU8CPUMt9m/rbFPouhMnpBoqhNl+atOlyY8AXFDwHyp5Dle+DBiXNtUBpwYMGJB/9k="
+        },
+        {
+            "position": 5,
+            "title": "Sr. Manager, Early Talent & Recruitment Marketing",
+            "company_name": "Legend Biotech",
+            "location": "Somerset, NJ",
+            "via": "via Built In",
+            "description": "Legend Biotech is a global biotechnology company dedicated to treating, and one day curing, life-threatening diseases. Headquartered in Somerset, New Jersey, we are developing advanced cell therapies across a diverse array of technology platforms, including autologous and allogenic chimeric antigen receptor T-cell, T-cell receptor (TCR-T), and natural killer (NK) cell-based immunotherapy. From our three R&D sites around the world, we apply these innovative technologies to pursue the discovery of safe, efficacious and cutting-edge therapeutics for patients worldwide.\n\nLegend Biotech entered into a global collaboration agreement with Janssen, one of the pharmaceutical companies of Johnson & Johnson, to jointly develop and commercialize ciltacabtagene autolecuel (cilta-cel). Our strategic partnership is designed to combine the strengths and expertise of both companies to advance the promise of an immunotherapy in the treatment of multiple myeloma.\n\nLegend Biotech is seeking Sr. Manager, Early Talent & Recruitment Marketing as part of the Talent Acquisition team based in Somerset, NJ.\n\nRole Overview\n\nLegend Biotech is seeking a strategic and innovative Sr. Manager, Early Talent & Recruitment Marketing to build and scale our global early talent agenda and to lead TA-focused employer branding. This role will develop a 3–5-year early talent roadmap covering internship/co-op programs, entry-level pipelines, and high-potential (Hi-Po) early-career visibility across the U.S., EU, and China. In parallel, this role will own recruitment marketing and TA messaging, ensuring all external-facing content reflects Legend’s EVP, mission, and hiring principles.\n\nKey Responsibilities\n• Develop and maintain a 3–5-year Global Early Talent Roadmap (interns, co-ops, new grads, post-docs) aligned to workforce plans and growth priorities.\n• Design and run the U.S. internship/co-op program with clear intake calendar, manager toolkit, evaluation survey, and conversion tracking.\n• Build the “early talent → entry-level” attraction and conversion model to drive Tier 1/Tier 2 university talent into open roles in R&D, Manufacturing, and G&A.\n• Partner with TA Business Partners (TABPs) and hiring managers to activate demand for early talent in business units.\n• Create and maintain a central early-talent/Hi-Po database consolidating current-year and prior-year early-career hires (fresh grads + post-docs) across US/EU/CN.\n• Develop Hi-Po selection criteria in partnership with HRBPs and Talent Development to distinguish high-potential early hires from standard hires.\n• Deliver quarterly reports to TA LT/HRLT on early talent progress, diversity of sources, and Hi-Po movement; support Chairman/senior leader showcase meetings featuring selected talent.\n• Lead TA’s employer branding and recruitment marketing strategy in partnership with Culture, Corporate Communications, and TA Operations.\n• Embed the EVP output into job templates, ATS emails, career site content, campus materials, and social campaigns.\n• Develop candidate attraction decks (corporate, BU, regional) to enable recruiters and TABPs.\n• Track and report channel performance (LinkedIn, campus platforms, etc.) and recommend other channels.\n• Run the TA newsletter / TA storytelling cadence with cross-regional contributions.\n• Build and maintain a central TA asset library (SharePoint) with reusable marketing assets, EVP-based content, and program materials for recruiters.\n• Collaborate with Corporate Communications on brand or culture campaigns annually (e.g., Life at Legend, Women in STEM, Early Talent at Legend).\n\nRequirements\n• A bachelor’s degree is required, preferably in Human Resources.\n• Minimum 5+ years in Talent Acquisition, Early Talent/University Recruitment, or Recruitment Marketing, with experience in a global environment.\n• Strong understanding of early talent programs and university partnerships within biotech, pharma, or life sciences.\n• Experience working with multi-regional teams and managing global TA programs preferred.\n• Experience in employer branding, digital marketing, and recruitment advertising.\n• Ability to analyze hiring trends, program success, and marketing effectiveness to refine strategies.\n• Strong ability to build and maintain partnerships with business, universities, internal stakeholders, and external vendors.\n• Passion for developing creative talent solutions to attract and retain top early-career talent.\n• Experience building reporting/dashboards for TA or HR programs (Greenhouse, Workday, PowerBI, or Smartsheet experience a plus).\n• Experience partnering with China/EU HR or TA teams is a plus.\n• Strong writing/editorial skills to maintain TA tone-of-voice across channels.\n\n#Li-NP1\n\n#Li-Hybrid\n\nThe anticipated base pay range is\n\n$142,146—$186,567 USD\n\nBenefits\n\nWe are committed to creating a workplace where employees can thrive - both professionally and personally. To attract and retain top talent in a highly competitive industry, we offer a best-in-class benefits package that supports well-being, financial stability, and long-term career growth. Our offerings are designed to meet the diverse needs of our team members and their families, ensuring they feel valued and supported every step of the way. Highlights include medical, dental, and vision insurance as well as a 401(k)-retirement plan with company match that vest fully on day one. Equity and stock options are available to employees in eligible roles, we offer eight weeks of paid parental leave after just three months of employment, and a paid time off policy that includes 15 vacation days, 5 personal days, 5 sick days, 11 U.S. national holidays, and 3 floating holidays. Additional benefits include flexible spending and health savings accounts, life and AD&D insurance, short- and long-term disability coverage, legal assistance, and supplemental plans such as pet, critical illness, accident, and hospital indemnity insurance. We also provide commuter benefits, family planning and care resources, well-being initiatives, and peer-to-peer recognition programs - demonstrating our ongoing commitment to building a culture where our people feel empowered, supported, and inspired to do their best work.\n\nEEO Statement\n\nLegend Biotech is a proud equal opportunity/affirmative action employer committed to attracting, retaining, and maximizing the performance of a diverse and inclusive workforce. It is Legend’s policy to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, national origin, marital or domestic/civil partnership status, genetic information, citizenship status, uniformed service member or veteran status, or any other characteristic protected by applicable law.\n\nEmployment is at-will and may be terminated at any time with or without cause or notice by the employee or the company. Legend may adjust base salary or other discretionary compensation at any time based on individual, team, performance, or market conditions.\n\nLegend Biotech maintains a drug-free workplace.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A bachelor’s degree is required, preferably in Human Resources",
+                        "Minimum 5+ years in Talent Acquisition, Early Talent/University Recruitment, or Recruitment Marketing, with experience in a global environment",
+                        "Strong understanding of early talent programs and university partnerships within biotech, pharma, or life sciences",
+                        "Experience in employer branding, digital marketing, and recruitment advertising",
+                        "Ability to analyze hiring trends, program success, and marketing effectiveness to refine strategies",
+                        "Strong ability to build and maintain partnerships with business, universities, internal stakeholders, and external vendors",
+                        "Passion for developing creative talent solutions to attract and retain top early-career talent",
+                        "Strong writing/editorial skills to maintain TA tone-of-voice across channels"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$142,146—$186,567 USD",
+                        "Highlights include medical, dental, and vision insurance as well as a 401(k)-retirement plan with company match that vest fully on day one",
+                        "Equity and stock options are available to employees in eligible roles, we offer eight weeks of paid parental leave after just three months of employment, and a paid time off policy that includes 15 vacation days, 5 personal days, 5 sick days, 11 U.S. national holidays, and 3 floating holidays",
+                        "Additional benefits include flexible spending and health savings accounts, life and AD&D insurance, short- and long-term disability coverage, legal assistance, and supplemental plans such as pet, critical illness, accident, and hospital indemnity insurance",
+                        "We also provide commuter benefits, family planning and care resources, well-being initiatives, and peer-to-peer recognition programs - demonstrating our ongoing commitment to building a culture where our people feel empowered, supported, and inspired to do their best work",
+                        "Legend may adjust base salary or other discretionary compensation at any time based on individual, team, performance, or market conditions"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role will develop a 3–5-year early talent roadmap covering internship/co-op programs, entry-level pipelines, and high-potential (Hi-Po) early-career visibility across the U.S., EU, and China",
+                        "In parallel, this role will own recruitment marketing and TA messaging, ensuring all external-facing content reflects Legend’s EVP, mission, and hiring principles",
+                        "Develop and maintain a 3–5-year Global Early Talent Roadmap (interns, co-ops, new grads, post-docs) aligned to workforce plans and growth priorities",
+                        "Design and run the U.S. internship/co-op program with clear intake calendar, manager toolkit, evaluation survey, and conversion tracking",
+                        "Build the “early talent → entry-level” attraction and conversion model to drive Tier 1/Tier 2 university talent into open roles in R&D, Manufacturing, and G&A",
+                        "Partner with TA Business Partners (TABPs) and hiring managers to activate demand for early talent in business units",
+                        "Create and maintain a central early-talent/Hi-Po database consolidating current-year and prior-year early-career hires (fresh grads + post-docs) across US/EU/CN",
+                        "Develop Hi-Po selection criteria in partnership with HRBPs and Talent Development to distinguish high-potential early hires from standard hires",
+                        "Deliver quarterly reports to TA LT/HRLT on early talent progress, diversity of sources, and Hi-Po movement; support Chairman/senior leader showcase meetings featuring selected talent",
+                        "Lead TA’s employer branding and recruitment marketing strategy in partnership with Culture, Corporate Communications, and TA Operations",
+                        "Embed the EVP output into job templates, ATS emails, career site content, campus materials, and social campaigns",
+                        "Develop candidate attraction decks (corporate, BU, regional) to enable recruiters and TABPs",
+                        "Track and report channel performance (LinkedIn, campus platforms, etc.) and recommend other channels",
+                        "Run the TA newsletter / TA storytelling cadence with cross-regional contributions",
+                        "Build and maintain a central TA asset library (SharePoint) with reusable marketing assets, EVP-based content, and program materials for recruiters",
+                        "Collaborate with Corporate Communications on brand or culture campaigns annually (e.g., Life at Legend, Women in STEM, Early Talent at Legend)"
+                    ]
+                }
+            ],
+            "extensions": [
+                "17 days ago",
+                "142,146–186,567 a year",
+                "Full-time",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 days ago",
+                "salary": "142,146–186,567 a year",
+                "schedule": "Full-time",
+                "paid_time_off": true,
+                "health_insurance": true,
+                "dental_insurance": true
+            },
+            "apply_link": "https://builtin.com/job/sr-manager-early-talent-recruitment-marketing/7586174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://builtin.com/job/sr-manager-early-talent-recruitment-marketing/7586174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Built In"
+                },
+                {
+                    "link": "https://us.experteer.com/career/view-jobs/sr-manager-early-talent-and-recruitment-marketing-somerset-nj-usa-54699572?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Experteer"
+                },
+                {
+                    "link": "https://www.theladders.com/job/sr-manager-early-talent-recruitment-marketing-biospace-somerset-nj_84252607?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Ladders"
+                },
+                {
+                    "link": "https://www.adzuna.com/details/5482260745?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Adzuna"
+                },
+                {
+                    "link": "https://www.jobilize.com/job/us-nj-somerset-sr-manager-early-talent-recruitment-marketing-legend?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Jobilize"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=BV0ifGLiAy3tNgs9AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CA5yk4PURAQX3QRRinVQ93KtRxpNc-VyQn0iX1O7_PAtf_adZKebGCgxoiPJ4YASPnDHQFFhDldq5O21G1WivEh9dLCEgmtIhNK0wBGOzC7QdNeq9mlrbUrBuKSovjENd5Yj1TzYJ9dpTJVaFOoDKlXrzWowfXSL2ZkcxQfsPSv9tz7CjTuSRJrDpfgB2ljoH6oAAAA&shmds=v1_AdeF8Kj5ewVP0-Xg5yG0Ey2xFRsfNZFsfqnmmAoMkLsyA6xMnw&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=BV0ifGLiAy3tNgs9AAAAAA%3D%3D",
+            "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAApVBMVEX////09vebprAPPFft7/EbQVsAN1PX3OAuTmUAMU+nsbn97/KNmqUANVIVP1mfqrOLncfv8ff86u7tjKS+xcxGYHOUoavl6OvGzdLiIF3+9ffp7PS3wdsqVqU0XKeFmMWbqs9deLVRcbHFzeH0uMbkOmp0ir0aTaHX3etHaK3shZ5xg5Foe4pXboA7V2zvnLD419+Aj5vpZof2y9XnWX4AJEbre5eQoVusAAABxklEQVRIie2S23LTMBCGVydLFpbUJpIlh0NLSYASN4lJ4f0fDR0cGrhh7BlmeuH/YjW72m/3t0cAixYtek16+24ed/v+ZiZ3N4tDH+ZxcP9xHgcPn8q52k4EHwv4ZreeCN58Lty3iRzcfrkfOeTQJPLr47jPqb/Bfw0q30c1yY2cCMYqC9AyoveU6pRKEJoChDr6Ykw06IUDyi6ga5sA0BPX9A5RfWibOEYIB/CkAOt+eKoOI7c9XoN9PiqXzUYw2xJC76GvwCQzA5GwSftO3fYF1ELrmhtiwAs2IJZSC8INyl5ATgY4fk/d5+7aqjSGStKAwbpB+hBTHjfCQThSQBsvn8/ZSXeijNkQAh2tIsICUBJBN1oFT0QBvVP8Au7OtGJVVf0IXMVTObBKaaUwSmWlgTEAWdWAiVZ1bQDWPxN36jbIyCjjaYujJIA3A+aAcmoA49gmWwgxsz791G69gfPuOOnRZK2eu66bwSV0tYmRttamTKYQZHQZa3Kfa63lpZqfDOelaZRvCpi+BZrYnKsmxyb431cRbG17DUqU0xKQL0NLB0aoVDlNYPhjIwqhDMixbL9kvGxEMjuOU/y0n7Fo0aL/ql+LXRz5CtqG1wAAAABJRU5ErkJggg=="
+        },
+        {
+            "position": 6,
+            "title": "Sales Territory Rep - Pharmaceutical",
+            "company_name": "Prism Biotech",
+            "location": "New York, NY",
+            "via": "via ZipRecruiter",
+            "description": "Who are we looking for in our Pharmaceutical Sales Rep professionals?\nWe are looking for healthcare and business-minded professionals, with successful sales track records who strive for organizational success, and seek career growth.\n\nWhat can you expect from a career with us as a Pharmaceutical Sales Representative?\nAs a Pharmaceutical Sales Representative, you are responsible for driving profitable sales growth by developing, maintaining, and advancing accounts by regularly contacting medical offices, hospitals, and rehabilitation institutions within a defined territory.\n\nPharmaceutical Sales Rep responsibilities include:\n·Providing healthcare product demonstrations, physician detailing and in-servicing of products to current and potential customers.\n·Consulting with physicians, nursing, phlebotomists as well as medical office staff to secure product orders for and increase product usage.\n·Sustaining or generating new or repeat orders for all products and programs.\n\nOur Pharmaceutical Sales Rep - Job opening pre-requisites;\n\nWhat background and experience are needed to be one of our Pharmaceutical Sales Reps?\n• The ideal candidate will possess some college and sales experience.\n• A strong initiative with exceptional customer service, presentation, and communication skills is desired.\n• Previous success attaining and exceeding sales goals is a plus.\n• Proficiency in Microsoft Office Products (Word, Excel, Power Point, etc.) as well knowledge of contact management software is helpful.\nContact us today if you are interested in our Pharmaceutical Sales Rep opportunities and looking to interview with us!!\n\nPowered by JazzHR\n\nfl8ViOkF2A",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will possess some college and sales experience",
+                        "Proficiency in Microsoft Office Products (Word, Excel, Power Point, etc.)",
+                        "as well knowledge of contact management software is helpful"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Pharmaceutical Sales Representative, you are responsible for driving profitable sales growth by developing, maintaining, and advancing accounts by regularly contacting medical offices, hospitals, and rehabilitation institutions within a defined territory",
+                        "Providing healthcare product demonstrations, physician detailing and in-servicing of products to current and potential customers",
+                        "Consulting with physicians, nursing, phlebotomists as well as medical office staff to secure product orders for and increase product usage",
+                        "Sustaining or generating new or repeat orders for all products and programs"
+                    ]
+                }
+            ],
+            "extensions": [
+                "22 hours ago",
+                "87.1K–117K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "22 hours ago",
+                "salary": "87.1K–117K a year",
+                "schedule": "Full-time",
+                "no_degree_mentioned": true
+            },
+            "apply_link": "https://www.ziprecruiter.com/c/Prism-Biotech/Job/Sales-Territory-Rep-Pharmaceutical/-in-New-York,NY?jid=e5d5917c5c6584ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://www.ziprecruiter.com/c/Prism-Biotech/Job/Sales-Territory-Rep-Pharmaceutical/-in-New-York,NY?jid=e5d5917c5c6584ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "ZipRecruiter"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=4WmnGKaWJGNn5AL0AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nCMLNoo0ILnZzERxKUZdOJQ1HG01z4e7E-in-rXF5w-Pxiu-iqG42oMAdmb0Sf-CKCbbQjJYn6_Cl3tmQxYV6ELTsRqAIZ6Ih4LIaVZMcjREJ5SBqc106mgxF7Gk2D-rlj07yDlOwit3-sJvLFIf1qmEvE5w8Kearj1DjG1ri5wbq9geVgytxnAAAAA&shmds=v1_AdeF8KieLs1_yTN_vS_BhwX0hLX2AxfciRwVtgma-AjzpPtKnA&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=4WmnGKaWJGNn5AL0AAAAAA%3D%3D"
+        },
+        {
+            "position": 7,
+            "title": "Analyst, Biotech & Generative AI",
+            "company_name": "AppliedXL",
+            "location": "New York, NY",
+            "via": "via LinkedIn",
+            "description": "Job Description: Analyst, Biotech & Generative AI\n\nReports to: Head of GenAI Content\n\nLocation: New York or Philadelphia (Hybrid)\n\nPlease include a cover letter outlining your interest in the role and how your skills align with AppliedXL and send to support@appliedxl.com.\n\nAbout AppliedXL\n\nAppliedXL is redefining how information powers decisions in the age of AI. As more work flows through machines first, data must be structured, contextual, and trusted. We turn raw information into verified, machine-readable signals that help analysts and AI systems detect what’s changing, before it becomes news.\n\nStarting with biotech, life sciences, and healthcare, our platform surfaces early risks and opportunities weeks ahead of disclosure. Our mission is to deliver news before it becomes news, building the standard for structured intelligence that powers high-stakes decisions across finance, healthcare, and beyond.\n\nBy joining AppliedXL, you’ll help shape the trusted signals that humans and machines rely on to see ahead.\n\nThe Role\n\nThis is not a traditional analyst position. You’ll work at the frontier where data science meets editorial judgment and AI reasoning. Your job is to uncover patterns, design intelligence feeds, and ensure that every signal is accurate, contextual, and actionable.\n\nYou’ll collaborate closely with the Head of GenAI Content and help define how humans and AI collaborate to detect emerging insights and explain them clearly. Over time, you’ll take increased ownership of editorial pipelines, signal quality, and content accuracy.\n\nThis is a high-impact opportunity for someone eager to shape how domain expertise and AI combine to power better, faster decision-making in life sciences.\n\nWhat You’ll Do\n\nDetect & Understand\n• Build working knowledge of datasets spanning clinical trials, regulatory filings, and biotech disclosures.\n• Translate complex data and workflows into clear, relevant insights.\n• Connect emerging signals to real-world outcomes that matter to investors and biopharma stakeholders.\n• Collaborate with product and GTM teams to define what truly matters from a user perspective.\n\nInterpret & Explain\n• Explore structured datasets in Python or SQL to identify trends and anomalies.\n• Assess what data changes mean for users and how they map to real-world impact.\n• Partner with data and product teams to test new features or metrics (e.g., enriched trial signals).\n• Form editorial hypotheses and maintain a high bar for analytical clarity and explainability.\n\nGuide AI Reasoning\n• Develop and test prompts that detect scientific or regulatory significance.\n• Evaluate AI outputs for factual accuracy, reasoning quality, and editorial clarity.\n• Document prompt behavior and edge cases to ensure reproducibility and transparency.\n• Bridge human and AI logic to improve how our systems reason, interpret, and communicate.\n\nIntegrate & Scale\n• Use internal tools to transform raw data into structured, user-facing intelligence.\n• Apply foundational AI concepts (model reasoning, tokenization, prompt design) in practice.\n• Document and share best practices for scalable human–AI collaboration.\n• Continuously refine and QA editorial quality and AI output across the pipeline that turns raw data → structured insight → actionable foresight.\n\nWhat We’re Looking For\n• At least 2+ years of direct experience in biosciences or clinical trials, and 5+ years total experience across life sciences, consulting, data analysis, or applied AI.\n• Strong analytical and reasoning skills.\n• Familiarity with Python and/or SQL for data exploration.\n• Experience with AI tools and concepts such as LLMs, prompt engineering, LangChain, and/or RAG (retrieval-augmented generation).\n• Deep curiosity about how scientific data becomes intelligence—and how AI can enhance that process.\n• Proven ability to learn new domains quickly and explain complex ideas clearly.\n• Editorial instincts: you know how to question, frame, and contextualize information for clarity and relevance.\n• Intellectual rigor about AI: you care not just about what models output, but why and how they reason.\n• A curious, disciplined thinker who asks: “What does this signal really mean, and why does it matter?”\n\nSalary Range: $75,000–$90,000\n\nPlease include a cover letter outlining your interest in the role and how your skills align with AppliedXL and send to support@appliedxl.com.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "At least 2+ years of direct experience in biosciences or clinical trials, and 5+ years total experience across life sciences, consulting, data analysis, or applied AI",
+                        "Strong analytical and reasoning skills",
+                        "Familiarity with Python and/or SQL for data exploration",
+                        "Experience with AI tools and concepts such as LLMs, prompt engineering, LangChain, and/or RAG (retrieval-augmented generation)",
+                        "Deep curiosity about how scientific data becomes intelligence—and how AI can enhance that process",
+                        "Proven ability to learn new domains quickly and explain complex ideas clearly",
+                        "Editorial instincts: you know how to question, frame, and contextualize information for clarity and relevance",
+                        "Intellectual rigor about AI: you care not just about what models output, but why and how they reason"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary Range: $75,000–$90,000"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As more work flows through machines first, data must be structured, contextual, and trusted",
+                        "We turn raw information into verified, machine-readable signals that help analysts and AI systems detect what’s changing, before it becomes news",
+                        "You’ll work at the frontier where data science meets editorial judgment and AI reasoning",
+                        "Your job is to uncover patterns, design intelligence feeds, and ensure that every signal is accurate, contextual, and actionable",
+                        "You’ll collaborate closely with the Head of GenAI Content and help define how humans and AI collaborate to detect emerging insights and explain them clearly",
+                        "Over time, you’ll take increased ownership of editorial pipelines, signal quality, and content accuracy",
+                        "Detect & Understand",
+                        "Build working knowledge of datasets spanning clinical trials, regulatory filings, and biotech disclosures",
+                        "Translate complex data and workflows into clear, relevant insights",
+                        "Connect emerging signals to real-world outcomes that matter to investors and biopharma stakeholders",
+                        "Collaborate with product and GTM teams to define what truly matters from a user perspective",
+                        "Interpret & Explain",
+                        "Explore structured datasets in Python or SQL to identify trends and anomalies",
+                        "Assess what data changes mean for users and how they map to real-world impact",
+                        "Partner with data and product teams to test new features or metrics (e.g., enriched trial signals)",
+                        "Form editorial hypotheses and maintain a high bar for analytical clarity and explainability",
+                        "Develop and test prompts that detect scientific or regulatory significance",
+                        "Evaluate AI outputs for factual accuracy, reasoning quality, and editorial clarity",
+                        "Document prompt behavior and edge cases to ensure reproducibility and transparency",
+                        "Bridge human and AI logic to improve how our systems reason, interpret, and communicate",
+                        "Use internal tools to transform raw data into structured, user-facing intelligence",
+                        "Apply foundational AI concepts (model reasoning, tokenization, prompt design) in practice",
+                        "Document and share best practices for scalable human–AI collaboration",
+                        "Continuously refine and QA editorial quality and AI output across the pipeline that turns raw data → structured insight → actionable foresight"
+                    ]
+                }
+            ],
+            "extensions": [
+                "12 days ago",
+                "75K–90K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "12 days ago",
+                "salary": "75K–90K a year",
+                "schedule": "Full-time"
+            },
+            "apply_link": "https://www.linkedin.com/jobs/view/analyst-biotech-generative-ai-at-appliedxl-4334867515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://www.linkedin.com/jobs/view/analyst-biotech-generative-ai-at-appliedxl-4334867515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "LinkedIn"
+                },
+                {
+                    "link": "https://www.dice.com/job-detail/6773d294-687f-441b-9cf5-693d6fda3eef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Dice"
+                },
+                {
+                    "link": "https://www.ziprecruiter.com/c/S&P-Global/Job/Generative-AI-Monitoring-Analyst,-Compliance-&-Control,-S&P-Global-Ratings/-in-New-York,NY?jid=d1f931beb6e32d61&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "ZipRecruiter"
+                },
+                {
+                    "link": "https://www.glassdoor.com/job-listing/generative-ai-monitoring-analyst-compliance-control-sp-global-ratings-sp-global-JV_IC1132348_KO0,69_KE70,79.htm?jl=1009878352855&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Glassdoor"
+                },
+                {
+                    "link": "https://www.theladders.com/job/generative-ai-monitoring-analyst-compliance-control-s-p-global-ratings-spglobal-new-york-ny_83446535?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Ladders"
+                },
+                {
+                    "link": "https://mygwork.com/jobs/sp-global-generative-ai-monitoring-analyst-compliance-control-sp-global-ratings?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "MyGwork"
+                },
+                {
+                    "link": "https://www.builtinnyc.com/job/generative-ai-monitoring-analyst-compliance-control-s-p-global-ratings/7539280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Built In NYC"
+                },
+                {
+                    "link": "https://www.monster.com/job-openings/generative-ai-monitoring-analyst-compliance-control-s-p-global-ratings-new-york-ny--60903a9b-358d-4a11-89b9-9e7edda7e5a7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Monster"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=hxWsOdwGisnZl-lDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7Bjrd5CC1EUGEOtWlKNLZTiWJRxuNuZA7tD6Gb2xd_uX7s-8s21dB-w9LDkdHgnaAJdQYMGlxL4TqBGs4kwFGnSakADVR73FxGEQil0ox-6JnmX5bWHoqCmhoVHcy_E_Hg04YvRbstrvNWMTQr-ZVjN7h7XoBF6DBN7SUHjk07Q_lo6SjlAAAAA&shmds=v1_AdeF8KivyKh8aoQmdGl5YnqzaqHaoqL6ZPaEdldYfkR6RmWdTw&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=hxWsOdwGisnZl-lDAAAAAA%3D%3D",
+            "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAXVBMVEULCwsAAAD///+zs7PR0dG8vLwGBgbExMT5+fm2trZQUFDHx8c8PDynp6fW1taAgIBERERXV1dnZ2cxMTFtbW1hYWHw8PDq6uoVFRWGhoZJSUkfHx96enpzc3OampocIxUeAAAA4ElEQVRIie2TyxKCMAxFm5QUEcpDERXB//9MGyhPZ6AsHDc9q2amh5s2RQiPx+P5J2BRs9rJS4ioCUn3pgIt6eJgwvWEWEKIGLKpIOaVo3cDAYRIYLwAMXLxkt4zBnESe/JAnrCmjB09zivsxs5E1Ec9HkOFmI5T2fByE3CeeXdOjHdNyJd5wniZtlM5kPcw3hNA7plQr7yKPbOQtluYs8qrJ+9lvKwrbSYkaTCQzg5ULD0eZ2NLNoOuoZFy2KmEeddTnwI0UTt95h1RqyM5QlOEWv06q3N8sXFZHo/H8xM+lTYHd1P98wYAAAAASUVORK5CYII="
+        },
+        {
+            "position": 8,
+            "title": "Senior Director of Treasury",
+            "company_name": "Legend Biotech",
+            "location": "Somerset, NJ",
+            "via": "via Built In",
+            "description": "Legend Biotech is a global biotechnology company dedicated to treating, and one day curing, life-threatening diseases. Headquartered in Somerset, New Jersey, we are developing advanced cell therapies across a diverse array of technology platforms, including autologous and allogenic chimeric antigen receptor T-cell, T-cell receptor (TCR-T), and natural killer (NK) cell-based immunotherapy. From our three R&D sites around the world, we apply these innovative technologies to pursue the discovery of safe, efficacious and cutting-edge therapeutics for patients worldwide.\n\nLegend Biotech entered into a global collaboration agreement with Janssen, one of the pharmaceutical companies of Johnson & Johnson, to jointly develop and commercialize ciltacabtagene autolecuel (cilta-cel). Our strategic partnership is designed to combine the strengths and expertise of both companies to advance the promise of an immunotherapy in the treatment of multiple myeloma.\n\nLegend Biotech is seeking Senior Director of Treasury as part of the Finance team based in Somerset, NJ.\n\nRole Overview\n\nKey responsibilities will be overseeing and managing global Treasury activities for Legend Biotech, supporting US legal entity board meeting and authorizing contract spend in the US.\n\nKey Responsibilities\n• Responsible for maintaining US, EU, and China banking relationships, including meeting with them at least once annually. Additionally, ensure the number of banking institutions utilized are adequate based upon risk and business requirements and not excessive, manage the overall banking fees.\n• Accountable for the global Treasury function which includes implementing and maintaining cash forecast model for operating entities and then managing the investment strategy to maximize interest in risk-averse investments, along with maintaining the principle in secured banks and investments.\n• Oversees cash & liquidity management, develop and execute treasury strategies aligned with corporate objectives.\n• Responsible for identifying, assisting in preparation and maintaining the capital infusion and intercompany loans documentation required to fund the different operating entities. This will require working closely with in-house and external Legal counsel and Treasury in China. Legend Ireland will serve as the Treasury center to the operating entities and will receive capital infusions from the parent company to fund the entities.\n• Analyze and determine when hedging will be required as Legend’s investment in our EU operations grows over the next several years, and then implementing a process to hedge once it is required.\n• Accountable for managing the global credit card program.\n• Delegated responsibility for authorizing contract spend and signing statement of work based upon functional leaders’ approval as well as guidance from the legal entity Board.\n• Provide ad hoc analysis as required.\n• Responsible for overseeing and managing global Treasury activities\n• Responsible for authorizing contract spend in the US\n• Accountable for FP&A BCMA and Legend Business Units in US and EU\n\nRequirements\n• Bachelor's degree in Finance, Accounting, or related field; MBA or CFA preferred.\n• 10+ years of progressive treasury experience, including leadership roles in a public company\n• Ability to work independently and collaboratively, as required, in a fast-paced, matrixed, team environment consisting of internal and external team members across different time zones.\n• Excellent analytical, communication, and leadership skills.\n• Strength in communicating and working independently and effectively with broad stakeholders.\n• Process-oriented with strong analytical skills for risk identification and management.\n• Adept in Excel\n• Strong knowledge of global cash management, capital markets, and treasury systems.\n• Experience in biotech, pharma, or high-growth industries is a plus.\n\n#Li-LB1\n\n#Li-Hybrid\n\nThe anticipated base pay range is\n\n$187,989—$246,735 USD\n\nBenefits\n\nWe are committed to creating a workplace where employees can thrive - both professionally and personally. To attract and retain top talent in a highly competitive industry, we offer a best-in-class benefits package that supports well-being, financial stability, and long-term career growth. Our offerings are designed to meet the diverse needs of our team members and their families, ensuring they feel valued and supported every step of the way. Highlights include medical, dental, and vision insurance as well as a 401(k)-retirement plan with company match that vest fully on day one. Equity and stock options are available to employees in eligible roles, we offer eight weeks of paid parental leave after just three months of employment, and a paid time off policy that includes 15 vacation days, 5 personal days, 5 sick days, 11 U.S. national holidays, and 3 floating holidays. Additional benefits include flexible spending and health savings accounts, life and AD&D insurance, short- and long-term disability coverage, legal assistance, and supplemental plans such as pet, critical illness, accident, and hospital indemnity insurance. We also provide commuter benefits, family planning and care resources, well-being initiatives, and peer-to-peer recognition programs - demonstrating our ongoing commitment to building a culture where our people feel empowered, supported, and inspired to do their best work.\n\nEEO Statement\n\nLegend Biotech is a proud equal opportunity/affirmative action employer committed to attracting, retaining, and maximizing the performance of a diverse and inclusive workforce. It is Legend’s policy to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, national origin, marital or domestic/civil partnership status, genetic information, citizenship status, uniformed service member or veteran status, or any other characteristic protected by applicable law.\n\nEmployment is at-will and may be terminated at any time with or without cause or notice by the employee or the company. Legend may adjust base salary or other discretionary compensation at any time based on individual, team, performance, or market conditions.\n\nLegend Biotech maintains a drug-free workplace.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "10+ years of progressive treasury experience, including leadership roles in a public company",
+                        "Ability to work independently and collaboratively, as required, in a fast-paced, matrixed, team environment consisting of internal and external team members across different time zones",
+                        "Excellent analytical, communication, and leadership skills",
+                        "Strength in communicating and working independently and effectively with broad stakeholders",
+                        "Process-oriented with strong analytical skills for risk identification and management",
+                        "Adept in Excel",
+                        "Strong knowledge of global cash management, capital markets, and treasury systems"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$187,989—$246,735 USD",
+                        "Highlights include medical, dental, and vision insurance as well as a 401(k)-retirement plan with company match that vest fully on day one",
+                        "Equity and stock options are available to employees in eligible roles, we offer eight weeks of paid parental leave after just three months of employment, and a paid time off policy that includes 15 vacation days, 5 personal days, 5 sick days, 11 U.S. national holidays, and 3 floating holidays",
+                        "Additional benefits include flexible spending and health savings accounts, life and AD&D insurance, short- and long-term disability coverage, legal assistance, and supplemental plans such as pet, critical illness, accident, and hospital indemnity insurance",
+                        "We also provide commuter benefits, family planning and care resources, well-being initiatives, and peer-to-peer recognition programs - demonstrating our ongoing commitment to building a culture where our people feel empowered, supported, and inspired to do their best work",
+                        "Legend may adjust base salary or other discretionary compensation at any time based on individual, team, performance, or market conditions"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Key responsibilities will be overseeing and managing global Treasury activities for Legend Biotech, supporting US legal entity board meeting and authorizing contract spend in the US",
+                        "Responsible for maintaining US, EU, and China banking relationships, including meeting with them at least once annually",
+                        "Additionally, ensure the number of banking institutions utilized are adequate based upon risk and business requirements and not excessive, manage the overall banking fees",
+                        "Accountable for the global Treasury function which includes implementing and maintaining cash forecast model for operating entities and then managing the investment strategy to maximize interest in risk-averse investments, along with maintaining the principle in secured banks and investments",
+                        "Oversees cash & liquidity management, develop and execute treasury strategies aligned with corporate objectives",
+                        "Responsible for identifying, assisting in preparation and maintaining the capital infusion and intercompany loans documentation required to fund the different operating entities",
+                        "This will require working closely with in-house and external Legal counsel and Treasury in China",
+                        "Legend Ireland will serve as the Treasury center to the operating entities and will receive capital infusions from the parent company to fund the entities",
+                        "Analyze and determine when hedging will be required as Legend’s investment in our EU operations grows over the next several years, and then implementing a process to hedge once it is required",
+                        "Accountable for managing the global credit card program",
+                        "Delegated responsibility for authorizing contract spend and signing statement of work based upon functional leaders’ approval as well as guidance from the legal entity Board",
+                        "Provide ad hoc analysis as required",
+                        "Responsible for overseeing and managing global Treasury activities",
+                        "Responsible for authorizing contract spend in the US",
+                        "Accountable for FP&A BCMA and Legend Business Units in US and EU"
+                    ]
+                }
+            ],
+            "extensions": [
+                "19 hours ago",
+                "187,989–246,735 a year",
+                "Full-time",
+                "Health insurance",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "19 hours ago",
+                "salary": "187,989–246,735 a year",
+                "schedule": "Full-time",
+                "health_insurance": true,
+                "paid_time_off": true,
+                "dental_insurance": true
+            },
+            "apply_link": "https://builtin.com/job/sr-director-treasury/7053155?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://builtin.com/job/sr-director-treasury/7053155?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Built In"
+                },
+                {
+                    "link": "https://www.theladders.com/job/senior-director-of-treasury-biospace-somerset-nj_84230539?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Ladders"
+                },
+                {
+                    "link": "https://www.sonara.ai/job-details/senior-director-of-treasury-at-legend-biotech-corp-01749009-41ac-42f9-2035-94e6ab74a195?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Sonara AI"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=q3VGgj1iVkFJZtZKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CA5ys2gjBRfdRBCKuNS9JPFMI2ku3J1QH8M3ti4_3_RX30XVdJgjMZwjo9cZ9IQ7o5U3f2ALLTkQtOwHoAwXopBweRxUixyMEUl1ELUafe1pNJTR0WRe5OSfXgbLWJJV7Jv9bqpLDuvVFQPmB5wiKc7bmKGjEVlQN3Brf1lqxhyUAAAA&shmds=v1_AdeF8Kic-kb9OIZSDLTeumhDvRk5UwR7chhypaFznsQB2dqncQ&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=q3VGgj1iVkFJZtZKAAAAAA%3D%3D",
+            "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAXCAMAAABponzPAAAApVBMVEX////z9fYXP1nBx8zn6esEOFQAK0sRPVcaQVr2zda8wsgALk3Kz9QJOlWTn6n0vckAM1Cvt74APZvhAFIAGD+lrrbb3uFneYhSaHlIYHM7VmvhDlaGk57sg5wvTmTxp7gAI0a/yN5Jaq3O1OXi5vCImsVgerXlS3R4jb6jsNEbTaG2wNoAHkN9i5f98/bkN2j76e3qd5PnYILular63+XpbYziJl+wcgIbAAABsElEQVQ4jb2S23bbIBBFZwRIGBCCNEKyLctx26SX3N02//9pHS6u/So/dJaWhgNsOAwAABw+w1XxePPlv3Jfr+Tg/v46Dh4OOXffFoLff2Tu02ohePiJJ44v3JLIxJnbheRj8emaBKJijClDLdYrclOkYnFQ0fqMmUKW81UZ5LrR9YwQZqfdU0Bd1bVEEI6gZw3KCe2kOXEvF2A7YGzIxmNQgO0IsQpybjmMEmzruZIOM7d/fbkAR/KGqp2irYDtmiQHuZGbBArarW97eNtGn+/HM9jMWt8aLzzYp3bCJD3IUblpKKARFn7t0jm3vwnEBIoBEGksJmdRjFGCXMNzNRdwaj386RJ47KCaBwoTrSqq4boZmKUdyapSKoKwiWBl1SRmMrlP4OsK6lY4d8f4najregYcnNNrg0k6oB4quIZJu9oNZGEV6wLdB11ginMGHuK/SMxtKGMUu499t9sufanpHt+PuzfKISSZ1zNJYMidIeTXaHiZgRc89mhj7tOPB59KbNMUiyWpmBjPk04xKf8PtOk7KZgYPwswvbKXoDVpvUQb5bNxn4dYUorZYtjDX4FyGp5bpYbUAAAAAElFTkSuQmCC"
+        },
+        {
+            "position": 9,
+            "title": "Senior Manager, Global Compensation",
+            "company_name": "Legend Biotech",
+            "location": "Somerset, NJ",
+            "via": "via Built In",
+            "description": "Legend Biotech is a global biotechnology company dedicated to treating, and one day curing, life-threatening diseases. Headquartered in Somerset, New Jersey, we are developing advanced cell therapies across a diverse array of technology platforms, including autologous and allogenic chimeric antigen receptor T-cell, T-cell receptor (TCR-T), and natural killer (NK) cell-based immunotherapy. From our three R&D sites around the world, we apply these innovative technologies to pursue the discovery of safe, efficacious and cutting-edge therapeutics for patients worldwide.\n\nLegend Biotech entered into a global collaboration agreement with Janssen, one of the pharmaceutical companies of Johnson & Johnson, to jointly develop and commercialize ciltacabtagene autolecuel (cilta-cel). Our strategic partnership is designed to combine the strengths and expertise of both companies to advance the promise of an immunotherapy in the treatment of multiple myeloma.\n\nLegend Biotech is seeking Senior Manager, Global Compensation as part of the Total Rewards team based in Somerset, NJ.\n\nRole Overview\n\nThe Senior Manager, Global Compensation is a core operational leader within the Total Rewards Center of Excellence, responsible for driving the execution of global compensation programs and delivering high-impact analytics and reporting. This role leads the operational delivery of annual compensation cycles, equity administration, labor cost modeling, and survey benchmarking. The Manager owns key processes and systems, applying strong analytical rigor, process discipline, and stakeholder partnership to ensure compensation programs are delivered with accuracy, efficiency, and strategic alignment.\n\nKey Responsibilities\n• Annual Compensation Planning:\n• Lead the execution of annual compensation cycles including merit, promotion, and bonus planning.\n• Establish and manage data templates, process timelines, and system configurations.\n• Partner with HRIS, HRBPs, and Finance to ensure accurate planning, validation, and reporting.\n• Equity Plan Operations:\n• Manage end-to-end equity operations including grant issuance, vesting schedules, tracking, and reporting.\n• Collaborate with Legal, Finance, and stock plan administrators to ensure compliance and timely execution.\n• Maintain equity data integrity and support employee communications and inquiries.\n• Labor Cost Analysis & Reporting:\n• Lead the development of annual labor cost models to support workforce planning and budgeting.\n• Own monthly compensation reporting, trend analysis, and variance tracking for HR and Finance stakeholders.\n• Deliver insights and recommendations based on labor cost trends and forecasts.\n• Compensation Surveys & Benchmarking:\n• Manage participation in global compensation surveys, including data submission and validation.\n• Analyze survey results and prepare benchmarking reports to inform market pricing and pay positioning.\n• Maintain survey library and ensure consistent methodology across geographies.\n• Reporting & Analytics:\n• Own the development and delivery of compensation dashboards, reports, and data visualizations.\n• Analyze compensation trends, identify risks, and provide actionable insights to HR and business leaders.\n• Ensure data accuracy and consistency across systems and reporting tools.\n• Policy & Guideline Development:\n• Develop and maintain compensation policies, guidelines, and process documentation.\n• Ensure policies are current, compliant, and effectively communicated across HR and business teams.\n• Job Evaluation & Pricing:\n• Lead job evaluations and market pricing using survey data and internal benchmarks.\n• Partner with HRBPs to understand job scope and responsibilities, and make leveling decisions.\n• Provide offer pricing recommendations in partnership with Talent Acquisition.\n• Recognition Program Ownership:\n• Own the global recognition platform, including vendor relationship management, system configuration, and award tracking.\n• Establish program guidelines, monitor usage, and evaluate effectiveness.\n• Lead enhancements and ensure alignment with company culture and values\n\nRequirements\n• Bachelor’s degree in Human Resources, Business, Finance, or related field\n• CCP or equivalent certification is a plus\n• 4–6 years of experience in compensation operations or analytics, preferably in a public, global company.\n• Strong data analysis and critical thinking skills\n• Strong organizational skills with attention to detail.\n• Excellent communication and stakeholder engagement abilities.\n• High level of integrity and discretion in handling sensitive data.\n• Advanced Proficiency of Excel- Pivot tables, macros\n• Proficiency in compensation systems and HRIS platforms (Workday preferred).\n• Experience with reporting tools (e.g., Tableau, Power BI) is a plus.\n\n#Li-LB1\n\n#Li-Hybrid\n\nThe anticipated base pay range is\n\n$123,605—$162,232 USD\n\nBenefits\n\nWe are committed to creating a workplace where employees can thrive - both professionally and personally. To attract and retain top talent in a highly competitive industry, we offer a best-in-class benefits package that supports well-being, financial stability, and long-term career growth. Our offerings are designed to meet the diverse needs of our team members and their families, ensuring they feel valued and supported every step of the way. Highlights include medical, dental, and vision insurance as well as a 401(k)-retirement plan with company match that vest fully on day one. Equity and stock options are available to employees in eligible roles, we offer eight weeks of paid parental leave after just three months of employment, and a paid time off policy that includes 15 vacation days, 5 personal days, 5 sick days, 11 U.S. national holidays, and 3 floating holidays. Additional benefits include flexible spending and health savings accounts, life and AD&D insurance, short- and long-term disability coverage, legal assistance, and supplemental plans such as pet, critical illness, accident, and hospital indemnity insurance. We also provide commuter benefits, family planning and care resources, well-being initiatives, and peer-to-peer recognition programs - demonstrating our ongoing commitment to building a culture where our people feel empowered, supported, and inspired to do their best work.\n\nEEO Statement\n\nLegend Biotech is a proud equal opportunity/affirmative action employer committed to attracting, retaining, and maximizing the performance of a diverse and inclusive workforce. It is Legend’s policy to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, national origin, marital or domestic/civil partnership status, genetic information, citizenship status, uniformed service member or veteran status, or any other characteristic protected by applicable law.\n\nEmployment is at-will and may be terminated at any time with or without cause or notice by the employee or the company. Legend may adjust base salary or other discretionary compensation at any time based on individual, team, performance, or market conditions.\n\nLegend Biotech maintains a drug-free workplace.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor’s degree in Human Resources, Business, Finance, or related field",
+                        "4–6 years of experience in compensation operations or analytics, preferably in a public, global company",
+                        "Strong data analysis and critical thinking skills",
+                        "Strong organizational skills with attention to detail",
+                        "Excellent communication and stakeholder engagement abilities",
+                        "High level of integrity and discretion in handling sensitive data",
+                        "Advanced Proficiency of Excel- Pivot tables, macros"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$123,605—$162,232 USD",
+                        "Highlights include medical, dental, and vision insurance as well as a 401(k)-retirement plan with company match that vest fully on day one",
+                        "Equity and stock options are available to employees in eligible roles, we offer eight weeks of paid parental leave after just three months of employment, and a paid time off policy that includes 15 vacation days, 5 personal days, 5 sick days, 11 U.S. national holidays, and 3 floating holidays",
+                        "Additional benefits include flexible spending and health savings accounts, life and AD&D insurance, short- and long-term disability coverage, legal assistance, and supplemental plans such as pet, critical illness, accident, and hospital indemnity insurance",
+                        "We also provide commuter benefits, family planning and care resources, well-being initiatives, and peer-to-peer recognition programs - demonstrating our ongoing commitment to building a culture where our people feel empowered, supported, and inspired to do their best work",
+                        "Legend may adjust base salary or other discretionary compensation at any time based on individual, team, performance, or market conditions"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Senior Manager, Global Compensation is a core operational leader within the Total Rewards Center of Excellence, responsible for driving the execution of global compensation programs and delivering high-impact analytics and reporting",
+                        "This role leads the operational delivery of annual compensation cycles, equity administration, labor cost modeling, and survey benchmarking",
+                        "The Manager owns key processes and systems, applying strong analytical rigor, process discipline, and stakeholder partnership to ensure compensation programs are delivered with accuracy, efficiency, and strategic alignment",
+                        "Annual Compensation Planning:",
+                        "Lead the execution of annual compensation cycles including merit, promotion, and bonus planning",
+                        "Establish and manage data templates, process timelines, and system configurations",
+                        "Partner with HRIS, HRBPs, and Finance to ensure accurate planning, validation, and reporting",
+                        "Equity Plan Operations:",
+                        "Manage end-to-end equity operations including grant issuance, vesting schedules, tracking, and reporting",
+                        "Collaborate with Legal, Finance, and stock plan administrators to ensure compliance and timely execution",
+                        "Maintain equity data integrity and support employee communications and inquiries",
+                        "Labor Cost Analysis & Reporting:",
+                        "Lead the development of annual labor cost models to support workforce planning and budgeting",
+                        "Own monthly compensation reporting, trend analysis, and variance tracking for HR and Finance stakeholders",
+                        "Deliver insights and recommendations based on labor cost trends and forecasts",
+                        "Compensation Surveys & Benchmarking:",
+                        "Manage participation in global compensation surveys, including data submission and validation",
+                        "Analyze survey results and prepare benchmarking reports to inform market pricing and pay positioning",
+                        "Maintain survey library and ensure consistent methodology across geographies",
+                        "Reporting & Analytics:",
+                        "Own the development and delivery of compensation dashboards, reports, and data visualizations",
+                        "Analyze compensation trends, identify risks, and provide actionable insights to HR and business leaders",
+                        "Ensure data accuracy and consistency across systems and reporting tools",
+                        "Policy & Guideline Development:",
+                        "Develop and maintain compensation policies, guidelines, and process documentation",
+                        "Ensure policies are current, compliant, and effectively communicated across HR and business teams",
+                        "Lead job evaluations and market pricing using survey data and internal benchmarks",
+                        "Partner with HRBPs to understand job scope and responsibilities, and make leveling decisions",
+                        "Provide offer pricing recommendations in partnership with Talent Acquisition",
+                        "Recognition Program Ownership:",
+                        "Own the global recognition platform, including vendor relationship management, system configuration, and award tracking",
+                        "Establish program guidelines, monitor usage, and evaluate effectiveness",
+                        "Lead enhancements and ensure alignment with company culture and values"
+                    ]
+                }
+            ],
+            "extensions": [
+                "18 days ago",
+                "123,605–162,232 a year",
+                "Full-time",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "18 days ago",
+                "salary": "123,605–162,232 a year",
+                "schedule": "Full-time",
+                "paid_time_off": true,
+                "dental_insurance": true,
+                "health_insurance": true
+            },
+            "apply_link": "https://builtin.com/job/manager-global-compensation/7324675?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://builtin.com/job/manager-global-compensation/7324675?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Built In"
+                },
+                {
+                    "link": "https://www.theladders.com/job/senior-manager-global-compensation-biospace-somerset-nj_84206166?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Ladders"
+                },
+                {
+                    "link": "https://www.sonara.ai/job-details/senior-manager-at-legend-biotech-corp-93ae9c64-5048-723e-38cc-6ce7cdaced18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Sonara AI"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=MqSOr8VKDRuwwcAtAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TLGRr0ZwINrHTIhDUJg8Ie3G5nFx2j9st8hV_a2wGBoapvpuq6YmjFHgiY6BygDaJxwR3mTOxokVhOEInHpSwjBOs3oqERNvrZJa1cU411UFtjcd6lNkJk5fFfcTrH4NOWCgnNBrOl9NSZw773YMC8RtuUYzWbWToZaaiZAd4dT_eB6ImnAAAAA&shmds=v1_AdeF8KiOlt_ZZBb8lKijSHQRfdZXqkFgUvPGafFdoC_-g0VE0g&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=MqSOr8VKDRuwwcAtAAAAAA%3D%3D",
+            "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBEQACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABAUCAwYHAf/EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwAEEQUSIRNRFDFBBjJhcYGhIiMzQlKRwf/EABgBAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAIxEBAAMAAgECBwAAAAAAAAAAAAECERIhQQNRBCIxcbHh8P/aAAwDAQACEQMRAD8A9xoFAoFAoFAoFAoFAoFAoFBUa47yXFjYGZreC7ZhJIh2s2BkRqfQtzyOcKcc81Sn0mfZmfZKg1K2luHhRvwo3TEhICvJzlF7kY5x/hqa1/SmlYm3nx5TaJlAoFAoKrWWaae0sep0UuGbdKPewoztU+jHv5gA45o9PoREVt6mbx/tn7OW1h5oNR0WSGxmubbStQmRvAW5fCGHjgdi+0/EGt0zJhL4yPmpfvuNn8ftG16W8vfaa11BbLVFsfBxsI3tbkgOJXyCkTDnGPeyMY4rUZxx5J7tr4kerprjGe01OW+a7n6kxefoC3IbplNrCPAGOCCc13rDvVdplnrMns0LRV1SC/lktOpMYLkSR/mAOd0jFTgHJCgDg54rszHJmItxzylTrr09yTr1rqbQjVFFwlj1trxrbbdybOdhcBsDyJ55rnWdOzy8+7sfYuPUItF26l4gHrym3W5bdMsG49MOf5be/Pep2zelabna5ubaC7iMV1DHNGeSkihh96ytS9qTypOSjvp4U2y2knhoYD+lEuFYZBxgfI/3Rm82vbladlulgd451EzKZDlSP2cAY+3w86MsPCE2yRPPIWVw28MQTznHnnGOOSfrQxkLdxfG46zbDGE6PpnJO7584+lBglrIsdwhuGzLu2uM5TOe59M+mPKhjdbRNDHseVpTuY7mxnkk447eX0o620CgUCgUCgUCgUCgUCgUCg//2Q=="
+        },
+        {
+            "position": 10,
+            "title": "Equity Research Associate- SMID Biotechnology",
+            "company_name": "Wolfe Research, LLC",
+            "location": "New York, NY",
+            "via": "via LinkedIn",
+            "description": "Description\n\nWolfe Research is seeking an Equity Research Associate, SMID Biotech to join its team in NYC. Wolfe Research was voted #6 on a weighted basis for equity research during 2025 by institutional clients in the prestigious Extel's All American Research Poll, trailing only significantly larger bulge bracket firms, who have historically not been viewed as our peers. The firm’s clients include most of the world’s largest asset managers (mutual funds, pension funds, hedge funds). Our firm covers publicly traded companies in many different industries across the US and abroad – the main focus is quality research, but we also do investment banking.\n\nEquity research job covering: SMID Biotechnology. Candidates should have good familiarity with the biotech sector. This experience could come from: (1) working in a similar financial role already, either on the \"buyside\" or \"sell-side\" in the healthcare/therapeutics space; (2) working in the biotech/neurology industry (ideally in a business function such as sales & marketing, business development, portfolio assessment, R&D and medical affairs); (3) working at a consulting firm where clients are biotech companies or (4) working in clinical research in an area related to neurology/cns.\n\nResponsibilities & Requirements\n• Ability to analyze drug development and clinical trial design/data analysis\n• Deep analysis of scientific literature to inform investment theses and analysis of therapeutic areas in Neurology\n• Good familiarity with financial concepts including: the basics of corporate finance such as 3-statement financial modeling; forecasting; and valuation techniques\n• Creative thinker with strong problem-solving skills: working with large data sets in Excel/Access, and ability to source and process information independently\n• Demonstrated ability to generate ideas: work closely and communicate effectively in a time sensitive environment, ability to balance multiple priorities and meet deadlines, strong organizational skills, client service minded and strong writing skills\n• Must enjoy following the stock market and developing industry themes\n• Technical skills: Bloomberg and/or FactSet skills helpful; Excel (macros, pivot tables, conditional formatting, short cuts).\n• Strong communication skills: particularly an ability to write concisely using correct grammar\n• Comfortable working 10+ hour workdays and some work on occasional weekends\n• SIE, Series 7, 63, 86 & 87 licensure is preferred, or expected to be completed within the first 6 months of joining\n\nEducation\n• BA/BS required, concentration must be in a scientific area relevant to the job (Neurology preference)\n• MBA, CPA, PharmD or PhD in a scientific area relevant to the job is not required, but is a plus\n• Demonstrated academic ability with a minimum of 3.5 GPA\n\nAt Wolfe Research we feel passionately about equal pay for equal work and pay transparency is an integral practice for that. The compensation for this role is market competitive with a base salary range of $95,000-$150,000. We intend to offer the selected candidate a base salary within this range, based on non-discriminatory factors including but not limited to skill set, job-related experience, and location. In addition, we offer an annual discretionary incentive bonus and competitive employee benefits including: medical, dental and vision coverage; life, accident and disability insurance. Wolfe also offers paid time off packages that include vacation, sick days/leave, paid holidays and paid parental leave.\n\nAbout Wolfe\n\nWolfe Research, LLC is a premier independent sell-side research firm with a commitment to best-in-class content and ongoing strategic growth. We produce the most objective and distinguished research across our covered sectors, and deliver our services with intense care and specificity to each of our institutional clients. We strive for excellence in every facet of our business, and we will continue to differentiate ourselves by maintaining the highest standards for effort, client service, thoughtfulness, and integrity. Wolfe remains committed to providing a home for the top-ranked, most innovative and inspired analysts and sales people, and places significant emphasis and resources on mentoring talent.\n\nThe firm has established a leading reputation for sector and macro research. Our QES product provides leading stock selection models, cutting edge portfolio analytics and hedging tools, highly ranked ESG product, and back-tested alternative data. Wolfe Research’s analysts were voted #6 on a weighted basis for equity research during 2025 by institutional clients in the prestigious Extel All-America Research Poll, trailing only significantly larger bulge bracket firms, who have historically not been viewed as our peers.\n\nWe strive for excellence in every facet of our business, and we will continue to differentiate ourselves by maintaining the highest standards for effort, client service, thoughtfulness, and integrity. Wolfe remains committed to providing a home for the top-ranked, most innovative and inspired analysts and sales people, and places significant emphasis and resources on mentoring talent.\n\nFor more information about Wolfe Research, please visit us at: www.wolferesearch.com\n\nWolfe Research recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity or sexual orientation, disability, age, citizenship or other characteristics. At Wolfe Research, we strive to be the place where a diverse mix of talented people want to come, to stay and do their best work. We pride ourselves on bringing integrity and objectiveness to our research process and we know our company’s biggest strength is the hard work, collaboration and diverse views and opinions of our passionate and creative employees. We are fully focused on equality and believe deeply that diversity of race, gender, sexual orientation, religion, ethnicity, national origin and all the other fascinating characteristics that make us different, also make us stronger.",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Candidates should have good familiarity with the biotech sector",
+                        "This experience could come from: (1) working in a similar financial role already, either on the \"buyside\" or \"sell-side\" in the healthcare/therapeutics space; (2) working in the biotech/neurology industry (ideally in a business function such as sales & marketing, business development, portfolio assessment, R&D and medical affairs); (3) working at a consulting firm where clients are biotech companies or (4) working in clinical research in an area related to neurology/cns",
+                        "Creative thinker with strong problem-solving skills: working with large data sets in Excel/Access, and ability to source and process information independently",
+                        "Demonstrated ability to generate ideas: work closely and communicate effectively in a time sensitive environment, ability to balance multiple priorities and meet deadlines, strong organizational skills, client service minded and strong writing skills",
+                        "Technical skills: Bloomberg and/or FactSet skills helpful; Excel (macros, pivot tables, conditional formatting, short cuts)",
+                        "Strong communication skills: particularly an ability to write concisely using correct grammar",
+                        "Comfortable working 10+ hour workdays and some work on occasional weekends",
+                        "BA/BS required, concentration must be in a scientific area relevant to the job (Neurology preference)",
+                        "Demonstrated academic ability with a minimum of 3.5 GPA"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The compensation for this role is market competitive with a base salary range of $95,000-$150,000",
+                        "We intend to offer the selected candidate a base salary within this range, based on non-discriminatory factors including but not limited to skill set, job-related experience, and location",
+                        "In addition, we offer an annual discretionary incentive bonus and competitive employee benefits including: medical, dental and vision coverage; life, accident and disability insurance",
+                        "Wolfe also offers paid time off packages that include vacation, sick days/leave, paid holidays and paid parental leave"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Ability to analyze drug development and clinical trial design/data analysis",
+                        "Deep analysis of scientific literature to inform investment theses and analysis of therapeutic areas in Neurology",
+                        "Good familiarity with financial concepts including: the basics of corporate finance such as 3-statement financial modeling; forecasting; and valuation techniques",
+                        "Must enjoy following the stock market and developing industry themes"
+                    ]
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "95K–150K a year",
+                "Full-time",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "salary": "95K–150K a year",
+                "schedule": "Full-time",
+                "paid_time_off": true,
+                "health_insurance": true,
+                "dental_insurance": true
+            },
+            "apply_link": "https://www.linkedin.com/jobs/view/equity-research-associate-smid-biotechnology-at-wolfe-research-llc-4335647171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "apply_links": [
+                {
+                    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-smid-biotechnology-at-wolfe-research-llc-4335647171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "LinkedIn"
+                },
+                {
+                    "link": "https://www.monster.com/job-openings/equity-research-associate-smid-biotechnology-new-york-ny--4339b73a-fb65-48b1-ae16-a0cb9b56672b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Monster"
+                },
+                {
+                    "link": "https://www.theladders.com/job/equity-research-associate-smid-biotechnology-wolfe-research-new-york-ny_82630938?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Ladders"
+                },
+                {
+                    "link": "https://www.jobleads.com/us/job/equity-research-associate-smid-biotechnology--new-york--ef267357b839bd02236cbd6f0d201a939?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "JobLeads"
+                },
+                {
+                    "link": "https://us.jobrapido.com/jobpreview/6962635068388933632?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Jobrapido"
+                },
+                {
+                    "link": "https://bandana.com/jobs/e69e3361-a9e8-4bdf-b032-54dae85ae19c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Bandana.com"
+                },
+                {
+                    "link": "https://us.bebee.com/job/045ffe21ba49c8e46cb389bdff57c608?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "BeBee"
+                },
+                {
+                    "link": "https://us.trabajo.org/job-3310-e85950a241ace768b351c68d2f70ce69?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "source": "Jobs Trabajo.org"
+                }
+            ],
+            "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=Bio+Tech+senior+role+in+New+York&htidocid=WpGyX3tVTQnJfJPnAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z2OsQrCMBQAce0nOD1wk7YRwUUntSJK7aCDOJU0PJNozKt9Eds_8jNVEJebjuOiVy_KVveHDR3skVE2ysCcmZSVARM47DYZLCwFVMaTI91BAluq4KeShzWRdtifmRBqngrB7FLNQQarUkU3QR4rasWFKv6iZCMbrN0nX44nozatvR4OjuTO-D-IIc-XYD0U-IQTNdcYitMbgB_mQ6sAAAA&shmds=v1_AdeF8Kika5eSH_htVa-P8hYH5McQaSE0XiQpXZXO-viSdsm5uA&shem=dimg2&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Bio+Tech+senior+role+in+New+York&htidocid=WpGyX3tVTQnJfJPnAAAAAA%3D%3D",
+            "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAOAMBEQACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAFBgcAAwH/xAAvEAACAQMDAwMDAwQDAAAAAAABAgMEBREABhIhMUETIjJRYXEHFIEVlKHRNUKR/8QAGQEBAQEBAQEAAAAAAAAAAAAABAMABQEC/8QALREAAQQABAQFBAMBAAAAAAAAAQACAxEEEyExEkFhoVFxkdHwBSIyUoHh8SP/2gAMAwEAAhEDEQA/ALjrLIRdtwUduLoxaWWPHNIhyIJ7Lgd2PhR18nA66qyJz1N8rWpauF/3HUrBFSUqUMlYRgzFQaaMn5NyI5PjrgDCj6nslkMIsuN13PsjvllNBoq+39pdS9Xltxmpa7U60Dn0fTF1gysXYPjnjmPlnyft00kwxZNcJvfY/OiKJZM2+IVtuExW7cW46eKUV1AtZLRkrMtOVJmQHBZOJOHHcoe47YIwTPghJHC6r8eXn06pTZZQPuF138vZM9qv1HcmSNGMcrqWRHHEsB3xnyPI7j8EElfE5m6Q2VrtkV1NUQPdN/WzRU0MMXr19bJ6NNDy45Y/9ifAGRk/fV4Ic0kk0BuozS5dAblI1mW5blvFQbXMsNmopMukbtGtXKBnLHqW5kZPInCkedOky4IwHauPb/EKPjmkJbo0d0t2633cXO61dZRVZrY6eclvRYkyv7OmB1PvJ6fTS5JIstrWkVY9EWNkvG5zgb19UK/od3x/xFw/tZP9aRnxfsPVHyJf1KKXiC6Ul4pLtDSVKTmCCcsYW6SBAGB6eWU5H30eJ0TozGSKsjdIlEjZA8A3oicF6modwpS1M7S26p4zUf7ti37YuuUYHPIcSSpwR0Dai6Fr4S4aEb1zr5aqJXMl4Tsdr5Wqbta/pfqSVmhNPV00hhqacnJjcffyO/8A4dcueHKdvYOxXShmEo6jdI+7L8h3DdpoqSIyWuk9KOoly5Dsyr7VPtHzbOQSeP8AGn4fDnLYCdHHt8CFPP8A9HED8QmL9MGuMlhlluaOrPUEw8ohGDHxXBAAAxnOjY4RiQBnh3V8EXmO3opubby3ukljiqXpJ5EWMzKCfaGDYxkeR3+51KCbKcCRYVposxpANJJqP0tuSqTTX1XbwJI2T/IY6ePqTObPnogn6e/k9Lu6obvYP6XS1FZNHUJTMrGGdsNiVyCCPsw0rDGKbicGir8OgRsQJYg1pOvn1XKrvtzFjtkorpZMmaGUTYlDFWDDIfOekgH8DXrcPGZXCvD52Xjp3iJpB8U2bQv0Y3NQ+rSxLLd6JS88WV5SLyDcl+J9yNggDGdBxEByna6NOybBO3MGmrgmaz7So6e43G4VUbyyVlQZDFMVdVw5KsMD+cHOOnnRZMS5zGsGlJLMO1rnOPNM+jJC2sstrLILuHa1q3C0L3KJ2eEEI6OVIB/Hftq8OIkhvgO6jLh45fzCXLv+n1lp7M+aqsip6Uy1J96k9VXIyV7YQaTHjpTJdCzojSYOIR1rQ1S3YDaTddr+hHXiX3ejylQgD1X+WF69eXbGkTZvBLdcr38AjxZXHHV2rDrjrrrayy2ssvCcDJ1lkIuO4aeiwEo7jVsy8gKWkdxjJHywFHb66tHCX8wPMqT5g3kSlHe98uNzs8VFT0i2+KqXlO9bUxxMqhiAuC3nAPTPTppmEijZIXON1tQJRMVI97OFoq/Erls6yUzbnp81Qlms1IsbxxIeCSHly5McdeTvgAHt3HbXuImdlEVo42vnDwtzAb1aKVL1zF0ltZZbWWUo/VbdLvVCy0MzJHAQ1S6Njk/hc/Qefv8AjXY+n4YVmvHkuTjsQeLLYfNK90o6m5X2ltMAaSaOGCnPduL8AXJ/DFs/jSonMZEZDzJKNKx75AwcqRulsU1RuGOrqoDTUUJWGginU85jGoEa+mPd4DtkDpnPfOjOxDWw8LdSdT0vf2SGwOdKHO0A2/hU3bNhgsNE8McjzzzSGWonkA5SOe5+341zJpjK6zsNl0oYhG2gi+oqq2ssuFc9RHRzvRRJLUqhMUbtxDNjoCfGvW0TrsvDdaKaLaN0ncriSOSShDGo5mGLlIvf0y2Pkfiev1PbXTzMPk6fltz+dVzuCfN12Rqi2tfaiCRbteJVNV1qRDKcIpOfTQdgT5c+OgHUkwfiIgfsbtt7n2V2QSV97t0y2mx0NrCftoVDInBDj4KTkgfTJ6k9ye5OjPlc/cq7Ims2CJ6mqL//2Q=="
+        }
+    ],
+    "pagination": {
+        "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVV4cmRGOTJTRWhvYlhsUWMyVk5kak5yT1ZobGRHNVFaV2xmZGt4WlRYRmZWblJaVEhSbGJ6VjRjVEZTVVUxdFlVbDZjVFZHZG5GZmNIUkVXUzF1UTI5dFYybG5hMjluWmpndE5rUjFXa05vTmxVM1kyMXpNSE4zVVRkTWNESm5VVWxtTFZWUGJtdG9jRWRJZWpSNVVucEdhVkUyTVhOTGFESjBRWE4wUTI1MFFXWjVTVTB3V1ZCME1rMDJhMlJYVjFsNVFWWm9kM2h4YlVkVGExUkNNRmRwY2pKVlJIaE1hbGN0V2pKWlZWQXdlRFpCWlU5dU5tWlFjMFZNVkZSMlV6ZGthRmREUlZOd1dsVk5hVGw1VDJOUlREUkxkWEp1YW1kU0xXOUhSRkF4V0hkUk55MTFSSFpQZUhnNFFrdE1TV1l0VlhCWlNuRnVUM1F0UjI1NVZpMVRORE5RVm5SMlEzYzNSMUpNZG5SSlRVTkhTRk5wYVRNelkwVlNVR2d5ZUhsbGNHUnFTRlI2VmxWaGVtWnVkVWM0TURRemVVZzJiVXhyYzJwRmFVczBWRFpUWm1aa0xYaHZiMUppUm5WVlpsOXdZVkU0YzNwcVRsVnRabXBZYVdkZmQwaEhlSFpwWTA5WmVVZHRZbHAyWXpGUU1GaHNUMVpGUjBKV1MydFBTMmd6Y3pSNGF6WXRRV0ZsZFMxNldYaFhYemN6TTIwMVRUTmtYelZhYUdKeloycEJZbWxoVm1ZMWFIQkVTRzlsZERZMVltbzJjVUY1VUdsTlFWbHVUbVoxTjFkVE5WSmtORzkzYkJJWFdVSm5aV0ZaYVRSQ1NtSmZhVXhOVUhRNWJVdHpRWGNhSWtGR1RVRkhSM0YxWkZKVWJXVlhVRzFETVd4eFVHaHdjV0k0UTJaRVNEWm9WMUUiLCJmY3YiOiIzIiwiZWkiOiJZQmdlYVlpNEJKYl9pTE1QdDltS3NBdyIsImdsIjoidXMiLCJobCI6ImVuIiwidWRtIjo4LCJhc3luYyI6Il9iYXNlanM6JTJGeGpzJTJGXyUyRmpzJTJGayUzRHhqcy5zLmVuLllKX1dvSHFCbWlBLjIwMTkuTyUyRmFtJTNEQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUNBZ0FBQVFJRUFBQUlBQUFBQUFBQUFBQUlRQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRRUFDQUFnQVFBQUFBQUFBQUFBQUFBQUFBQUFRQUFBQUFBQUFBQUFESUFBQUVBQUFRVUFBQUFLQUFBQUFBQUFBQUFBQUFBQVFBQUVBQUFBQUFBSmtBRGd2XzBCQndBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUVRQUFBQUFBQUFDd0FBQkFVQmdBZ0FDRUFBSUFBQUFBQUFBQUFBQUFBQUFBQ0FBQUFBQUFBSUFBQUFBQUFCQUFBQUNBQWdBQUFnQUFBQUFBQUFBQUFBQUFBQUFBQUFnQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUE0QUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCREFBQUFBQUFBQ2dBSUlBZkFBQUlBQUFBQU1BQkFBQ0VBQUFBQUJaUUpBQUFDQUFBQUFESUFlRHhBQTRwS0FBQUFBQUFBQUFBQUFBQUFBQUFBQUJBQUJRRWN5RDlnQUFDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBa0NKc1lxMEJBQUUlMkZkZyUzRDAlMkZiciUzRDElMkZycyUzREFDVDkwb0gtSFVTeFdlVmh5TzdrNkg4cW5GUmEtVXp0bVElMkZjYiUzRGxvYWRlZF9oXzAsX2Jhc2Vjc3M6JTJGeGpzJTJGXyUyRnNzJTJGayUzRHhqcy5zLllkMjAzaGtCN2ZNLkwuQjEuTyUyRmFtJTNEQUFBRUJBQWdFQUFBQUFBQUFBQUFBQUFJQUlBUUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQkFBQUFBQUFBQUFBQUVBQUFBQUFBQUFBQUFBQUFBQUFBQVFBQUFBbkNHQUFBQUFBQUFRQzhBQUpBQ0FBQUFBQUFBQUE4QUFCQWtBQUFBQUFBQUVBQUNBQUFnQVFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUNBQUFBQUFBSUFBQUVBQUlRQUFBQUFBQlFBZ0FBQUFBQUFBQUFBQUFBQUVBQUFBQUFBQWdBQUFBQUFBQmd3QUFDQUFBQUFBSUJBQUFBZ0FBQUFJQUFBRGdEQUFBQUFBQUJrQUFBQUFBQUFBZ0FDQUFBQUFBQUFBQUVRQUZCQUFJR0FBQUFBQU1BQUFBQUFBQU1BQVdCQVFCRUNnQWdRQUFBNEFBQUFBQUFBQUFRQUFBQUFBQUFBQ0FFQkFBQUlBQUFBQUlBQUFBQUlBUUI0QUFBQUVBQUFCQ0FnQXZBRUNBd0FBUUNBQVFBUUFBQUlBU0FBSUJBRUFBQ2dJQUFFQUFBQUFBQUFBQU1BSUFBQUFBQUFXQUJaUkpBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQ0FBZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFJJTJGYnIlM0QxJTJGY2IlM0Rsb2FkZWRfaF8wJTJGcnMlM0RBQ1Q5MG9FdklwczVSWEJVcTVLTjVhRWNQVmc0aUtSWkZ3LF9iYXNlY29tYjolMkZ4anMlMkZfJTJGanMlMkZrJTNEeGpzLnMuZW4uWUpfV29IcUJtaUEuMjAxOS5PJTJGY2slM0R4anMucy5ZZDIwM2hrQjdmTS5MLkIxLk8lMkZhbSUzREFBQUVCQUFnRUFBQUFBQUFBQUFBQUFBSUFJQVFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBRUFDQWdBQUFRSUVBQW5LR0FBQUFBQUFBUUM4UUFKQUNBQUFBQUFBQUFBOEFBQkFrQUFBQUFBQUFFUUVDQ0FBZ0FRQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUFDQUFBQUFBRElBQUFFQUFJUVVBQUFBS0JRQWdBQUFBQUFBQUFBQUFRQUFFQUFBQUFBQUprQURndl8wQkJ3d0FBQ0FBQUFBRUlCQUFBQWdBQUFBSUFBQURrVEFBQUFBQUFCbXdBQUJBVUJnQWdBQ0VBQUlBQUFBQUFFUUFGQkFBSUdBQUNBQUFNQUFBQUlBQUFNQUFXQkFRQkVDZ0FnUUFBZzRBQUFBQUFBQUFBUUFBQUFBQUFBZ0NBRUJBQUFJQUFBQUFJQUFBQkFJQVFCNEFBQUFFRUFBQkNBZ0F2QUVDQXdBQVFDQUFRQVFBQUFJQlRBQUlCQUVBQUNnSUlJRWZBQUFJQUFBQUFNQUpBQUNFQUFBV0FCWlJKQUFBQ0FBQUFBRElBZUR4QUE0cEtBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFCUUVjeUQ5Z2dBQ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQWtDSnNZcTBCQUFFJTJGZCUzRDElMkZlZCUzRDElMkZkZyUzRDAlMkZiciUzRDElMkZ1amclM0QxJTJGcnMlM0RBQ1Q5MG9HeVJRM2dsSEQ2ZUFHbWc0a2xPQmVVWHExMllBJTJGY2IlM0Rsb2FkZWRfaF8wLF9mbXQ6cHJvZyxfaWQ6ZmNfWUJnZWFZaTRCSmJfaUxNUHQ5bUtzQXdfMiJ9"
+    }
+}

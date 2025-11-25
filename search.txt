@@ -1,0 +1,23 @@
+Protein Structure Prediction Scientist jobs
+Research Associate in bio tech
+Sr. Scientist, Principal Scientist
+Principal Scientist in biotech
+Associate Director biotech (1)
+protein Engineering
+Antibody Engineering jobs
+computational biologist
+
+cmc scientist 
+Analytical Development 
+Process Chemistry usa
+Translational Medicine & Biomarker Translational Scientist jobs
+Precision Medicine scientist
+Clinical Scientist
+supply Chain Biotech-focused job 
+Lab Operations Managers
+
+{
+    company_name,
+    company_uid,
+    company_domain
+}
