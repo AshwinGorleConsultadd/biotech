@@ -5,7 +5,7 @@ import os
 import re
 st.set_page_config(page_title="Biotech Jobs", layout="wide")
 
-st.title("🔬 Biotech Job Listings")
+st.title("Biotech Job Listings")
 
 # -----------------------------------------
 # Load processed jobs (6_final.json)
@@ -166,7 +166,7 @@ elif sorting_option == "posted_at (Oldest First)":
 # -----------------------------------------
 # TABLE DISPLAY
 # -----------------------------------------
-st.write("### 📄 Job Results")
+st.write("### Job Results")
 
 # Custom layout for table
 for idx, row in filtered_df.iterrows():

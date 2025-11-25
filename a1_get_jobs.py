@@ -6,8 +6,8 @@ import time
 import hashlib
 
 
-# SEARCHAPI_KEY = "iYDUQnrq14XX3ipPswPr3gSK"   # put your key here
-SEARCHAPI_KEY = "AIzaSyAPL1KYElx7P7j2rSPOkia6Ud0PDioD1MU"   # put your key here
+SEARCHAPI_KEY = "iYDUQnrq14XX3ipPswPr3gSK"   # put your key here
+# SEARCHAPI_KEY = "AIzaSyAPL1KYElx7P7j2rSPOkia6Ud0PDioD1MU"   # put your key here
 
 
 # -------------------------------------------------------------------
