@@ -1,5 +1,7 @@
 # 🔬 Biotech Job Aggregator & Enrichment Pipeline
 
+url: https://consultadd.streamlit.app/
+
 This project automatically fetches biotech senior-level job listings from Google Jobs API, enriches company data using Clay, resolves company domains, and provides a full Streamlit UI to explore and filter results.
 
 ---
@@ -22,7 +24,7 @@ This project automatically fetches biotech senior-level job listings from Google
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 biotech/
 │
@@ -64,7 +66,7 @@ GOOGLE_SHEET_ID=your_google_sheet_id
 
 
 
-🏗 Pipeline Steps (How Data Flows)
+# Pipeline Steps (How Data Flows)
 1️⃣ Fetch Jobs
 
 Uses SearchAPI (google_jobs engine):
@@ -112,91 +114,6 @@ Final output → output/6_final.json
 
 This file powers the UI.
 
-🖥 Run the Streamlit App
-streamlit run app.py
+#Run the Streamlit App
+## streamlit run app.py
 
-
-This opens the UI with:
-
-One unified job table
-
-Clickable “View” button
-
-Filters (Location, Schedule, Role, Posted At)
-
-Sorting
-
-Icons for apply links
-
-Smart role parsing
-
-Detail page for each job
-
-📝 Detail Page (pages/detail_page.py)
-
-Displays:
-
-🏢 Company Section (Top)
-
-Name
-
-Domain
-
-LinkedIn
-
-Industry
-
-Employee count
-
-Address
-
-Description
-
-📄 Job Section
-
-Title
-
-Job role
-
-Location
-
-Salary
-
-Experience required
-
-Posted at
-
-Schedule
-
-Full job description
-
-Job highlights (Qualifications / Responsibilities / Benefits)
-
-Apply links
-
-Thumbnail
-
-🧪 Troubleshooting
-❌ TypeError: object of type 'float' has no len()
-
-Use safe truncate helper to avoid NaN/float issues.
-
-❌ StreamlitInvalidHeightError
-
-Change hidden textarea height from 0 → 1.
-
-❌ View button not clicking
-
-JS → Streamlit bridge must be included (already handled in latest code).
-
-📦 Future Improvements (Optional)
-
-Pagination
-
-Save UI filters in session
-
-Export table to CSV
-
-Add AI summary of each job
-
-Add relevance ranking
