@@ -24,30 +24,6 @@ This project automatically fetches biotech senior-level job listings from Google
 
 ---
 
-## 📁 Project Structure
-
-biotech/
-│
-├── a1_fetch_jobs.py
-├── a2_get_jobs_domain.py
-├── a3_send_webhook_clay.py
-├── a4_poll_google_sheet.py
-├── a5_merge_company_data.py
-│
-├── output/
-│ ├── 1_raw_jobs.json
-│ ├── 2_generate_queries.json
-│ ├── 3_jobs_with_domains.json
-│ ├── 4_clay_webhook_sent.json
-│ ├── 5_enriched_company.json
-│ ├── 6_final.json ← FINAL merged output used by UI
-│
-├── app.py ← Streamlit UI (table)
-└── pages/
-└── detail_page.py ← Detailed job + company view
-
-
-
 ---
 
 # 🧩 Requirements
@@ -115,5 +91,5 @@ Final output → output/6_final.json
 This file powers the UI.
 
 #Run the Streamlit App
-## streamlit run app.py
+   streamlit run app.py
 
