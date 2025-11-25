@@ -62,7 +62,7 @@ st.markdown("### 🔙 [Back to Job Listings](../app.py)")
 # ------------------------------------------------------------------
 # Company Info Card
 # ------------------------------------------------------------------
-st.markdown("## 🏢 Company Overview")
+st.markdown("## Company Overview")
 
 thumbnail = job.get("thumbnail")
 
@@ -97,7 +97,7 @@ st.markdown("---")
 # ------------------------------------------------------------------
 # Job Summary Section
 # ------------------------------------------------------------------
-st.markdown("## 💼 Job Summary")
+st.markdown("## Job Summary")
 
 salary = job.get("detected_extensions", {}).get("salary", "Not specified")
 experience = job.get("experience_required", "Not specified")
@@ -122,7 +122,7 @@ with summary_col3:
     print_metric("🔎 Job Role Query", source_query)
 
 # APPLY LINKS
-st.markdown("### 🔗 Apply Links")
+st.markdown("### Apply Links")
 for link in job.get("apply_links", []):
     url = link.get("link")
     src = link.get("source")
@@ -134,7 +134,7 @@ st.markdown("---")
 # ------------------------------------------------------------------
 # Job Description
 # ------------------------------------------------------------------
-st.markdown("## 📘 Job Description")
+st.markdown("## Job Description")
 st.write(job.get("description", ""))
 
 st.markdown("---")
@@ -142,7 +142,7 @@ st.markdown("---")
 # ------------------------------------------------------------------
 # Job Highlights
 # ------------------------------------------------------------------
-st.markdown("## ⭐ Job Highlights")
+st.markdown("## Job Highlights")
 
 for section in job.get("job_highlights", []):
     title = section.get("title")
