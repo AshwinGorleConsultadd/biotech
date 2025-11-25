@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "company_uid": "795745aad4d58c214c9259d3e94ab492",
+    "company_name": "BioMarin Pharmaceutical",
+    "company_domain": "www.biomarin.com"
+  },
+  {
+    "company_uid": "305fb85f20f54dbef1d33c6134abb2d1",
+    "company_name": "Legend Biotech US",
+    "company_domain": "www.legendbiotech.com"
+  },
+  {
+    "company_uid": "e96a479c49f59f0f9e66875d0d856ab6",
+    "company_name": "Accenture",
+    "company_domain": "www.accenture.com"
+  },
+  {
+    "company_uid": "1dd3a0063b72b5af73eb54ddcb27d3dc",
+    "company_name": "ADC Therapeutics America Inc",
+    "company_domain": "www.adctherapeutics.com"
+  },
+  {
+    "company_uid": "f6706d5db3ad094cfabd8fb5326f1eec",
+    "company_name": "ZS",
+    "company_domain": "www.zs.com"
+  },
+  {
+    "company_uid": "17febaf4c2f4af24bfeac261e766d238",
+    "company_name": "Marengo Therapeutics Inc",
+    "company_domain": "www.marengotx.com"
+  },
+  {
+    "company_uid": "f8a9e23dc3bd474e7bc6f626d47f6abb",
+    "company_name": "Gilead Sciences",
+    "company_domain": "www.gilead.com"
+  },
+  {
+    "company_uid": "262b8d1ac6e0fb2f8045ac01bc5e4c6c",
+    "company_name": "Bluecrux",
+    "company_domain": "www.bluecrux.com"
+  }
+]
