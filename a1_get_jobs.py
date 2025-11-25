@@ -6,7 +6,8 @@ import time
 import hashlib
 
 
-SEARCHAPI_KEY = "iYDUQnrq14XX3ipPswPr3gSK"   # put your key here
+# SEARCHAPI_KEY = "iYDUQnrq14XX3ipPswPr3gSK"   # put your key here
+SEARCHAPI_KEY = "AIzaSyAPL1KYElx7P7j2rSPOkia6Ud0PDioD1MU"   # put your key here
 
 
 # -------------------------------------------------------------------
@@ -85,7 +86,7 @@ def fetch_jobs_for_query(query, limit_per_query=10):
                 break  # no more pages
             if call_count >= 2:
                 break
-            
+
             for job in jobs:
                 uid = job_uid(job)
                 if uid not in seen:
